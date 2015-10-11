@@ -7,6 +7,189 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6E6732F31BCA16B700D77942 /* .localized in Resources */ = {isa = PBXBuildFile; fileRef = 6E67322A1BCA16B600D77942 /* .localized */; settings = {ASSET_TAGS = (); }; };
+		6E6732F41BCA16B700D77942 /* 01 Mod2_DealingWUnwantedStates.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E67322B1BCA16B600D77942 /* 01 Mod2_DealingWUnwantedStates.mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E6732F51BCA16B700D77942 /* 01 Mod4_GettingYourInnerTeamOnboard.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E67322C1BCA16B600D77942 /* 01 Mod4_GettingYourInnerTeamOnboard.mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E6732F61BCA16B700D77942 /* 01 Mod4_Modeling.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E67322D1BCA16B600D77942 /* 01 Mod4_Modeling.mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E6732F71BCA16B700D77942 /* 01 Mod5_BeingPresent.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E67322E1BCA16B600D77942 /* 01 Mod5_BeingPresent.mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E6732F81BCA16B700D77942 /* 01 Mod6_MaintingMomentum.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E67322F1BCA16B600D77942 /* 01 Mod6_MaintingMomentum.mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E6732F91BCA16B700D77942 /* 01 Track 1 (1).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732301BCA16B600D77942 /* 01 Track 1 (1).mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E6732FA1BCA16B700D77942 /* 01 Track 1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732311BCA16B600D77942 /* 01 Track 1.mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E6732FB1BCA16B700D77942 /* 01 Track 1.wma in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732321BCA16B600D77942 /* 01 Track 1.wma */; settings = {ASSET_TAGS = (); }; };
+		6E6732FC1BCA16B700D77942 /* grade_report.html in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732341BCA16B600D77942 /* grade_report.html */; settings = {ASSET_TAGS = (); }; };
+		6E6732FD1BCA16B700D77942 /* 136Syllabus.11G.docx in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732351BCA16B600D77942 /* 136Syllabus.11G.docx */; settings = {ASSET_TAGS = (); }; };
+		6E6732FE1BCA16B700D77942 /* 20150523_183420_resized.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732361BCA16B600D77942 /* 20150523_183420_resized.jpg */; settings = {ASSET_TAGS = (); }; };
+		6E6732FF1BCA16B700D77942 /* 20150523_183740_resized.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732371BCA16B600D77942 /* 20150523_183740_resized.jpg */; settings = {ASSET_TAGS = (); }; };
+		6E6733001BCA16B700D77942 /* 20150523_184101_resized.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732381BCA16B600D77942 /* 20150523_184101_resized.jpg */; settings = {ASSET_TAGS = (); }; };
+		6E6733011BCA16B700D77942 /* 20150523_185037_resized.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732391BCA16B600D77942 /* 20150523_185037_resized.jpg */; settings = {ASSET_TAGS = (); }; };
+		6E6733021BCA16B700D77942 /* 20150523_190310_resized.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6E67323A1BCA16B600D77942 /* 20150523_190310_resized.jpg */; settings = {ASSET_TAGS = (); }; };
+		6E6733031BCA16B700D77942 /* 20150523_190722_resized_1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6E67323B1BCA16B600D77942 /* 20150523_190722_resized_1.jpg */; settings = {ASSET_TAGS = (); }; };
+		6E6733041BCA16B700D77942 /* Lab10.cpython-34.pyc in Resources */ = {isa = PBXBuildFile; fileRef = 6E67323D1BCA16B600D77942 /* Lab10.cpython-34.pyc */; settings = {ASSET_TAGS = (); }; };
+		6E6733051BCA16B700D77942 /* Academic Plan (1).doc in Resources */ = {isa = PBXBuildFile; fileRef = 6E67323E1BCA16B600D77942 /* Academic Plan (1).doc */; settings = {ASSET_TAGS = (); }; };
+		6E6733061BCA16B700D77942 /* Academic Plan.doc in Resources */ = {isa = PBXBuildFile; fileRef = 6E67323F1BCA16B600D77942 /* Academic Plan.doc */; settings = {ASSET_TAGS = (); }; };
+		6E6733071BCA16B700D77942 /* Aer - I Can't Help It (Official Music Video).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732401BCA16B600D77942 /* Aer - I Can't Help It (Official Music Video).mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E6733081BCA16B700D77942 /* Aer - Like the Way (Official Music Video).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732411BCA16B600D77942 /* Aer - Like the Way (Official Music Video).mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E6733091BCA16B700D77942 /* Alicia Keys - Killing Me Softly.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732421BCA16B600D77942 /* Alicia Keys - Killing Me Softly.mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E67330A1BCA16B700D77942 /* Alina Baraz & Galimatias - Unfold.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732431BCA16B600D77942 /* Alina Baraz & Galimatias - Unfold.mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E67330B1BCA16B700D77942 /* Alina Baraz - Art Of Persuasion(esta. remix).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732441BCA16B600D77942 /* Alina Baraz - Art Of Persuasion(esta. remix).mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E67330C1BCA16B700D77942 /* atom-mac.zip in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732451BCA16B600D77942 /* atom-mac.zip */; settings = {ASSET_TAGS = (); }; };
+		6E67330D1BCA16B700D77942 /* back.png in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732461BCA16B600D77942 /* back.png */; settings = {ASSET_TAGS = (); }; };
+		6E67330E1BCA16B700D77942 /* BANKS - Change (Prod. Tim Anderson).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732471BCA16B600D77942 /* BANKS - Change (Prod. Tim Anderson).mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E67330F1BCA16B700D77942 /* Beck - Go it Alone.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732481BCA16B600D77942 /* Beck - Go it Alone.mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E6733101BCA16B700D77942 /* Blink 182 - Dumpweed (With Lyrics!).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732491BCA16B600D77942 /* Blink 182 - Dumpweed (With Lyrics!).mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E6733111BCA16B700D77942 /* ClassicFTP_i.dmg in Resources */ = {isa = PBXBuildFile; fileRef = 6E67324A1BCA16B600D77942 /* ClassicFTP_i.dmg */; settings = {ASSET_TAGS = (); }; };
+		6E6733121BCA16B700D77942 /* classicmaci.zip in Resources */ = {isa = PBXBuildFile; fileRef = 6E67324B1BCA16B600D77942 /* classicmaci.zip */; settings = {ASSET_TAGS = (); }; };
+		6E6733131BCA16B700D77942 /* Crushing The Microstakes.epub in Resources */ = {isa = PBXBuildFile; fileRef = 6E67324D1BCA16B600D77942 /* Crushing The Microstakes.epub */; settings = {ASSET_TAGS = (); }; };
+		6E6733141BCA16B700D77942 /* Crushing The Microstakes.mobi in Resources */ = {isa = PBXBuildFile; fileRef = 6E67324E1BCA16B600D77942 /* Crushing The Microstakes.mobi */; settings = {ASSET_TAGS = (); }; };
+		6E6733151BCA16B700D77942 /* Crushing the Microstakes.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 6E67324F1BCA16B600D77942 /* Crushing the Microstakes.pdf */; settings = {ASSET_TAGS = (); }; };
+		6E6733161BCA16B700D77942 /* crushing_the_microstakes.rar in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732501BCA16B600D77942 /* crushing_the_microstakes.rar */; settings = {ASSET_TAGS = (); }; };
+		6E6733171BCA16B700D77942 /* CS112 2015 Spring course calendar.xls in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732511BCA16B600D77942 /* CS112 2015 Spring course calendar.xls */; settings = {ASSET_TAGS = (); }; };
+		6E6733181BCA16B700D77942 /* CS136 Syllabus Fall 2015(1).docx in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732521BCA16B600D77942 /* CS136 Syllabus Fall 2015(1).docx */; settings = {ASSET_TAGS = (); }; };
+		6E6733191BCA16B700D77942 /* CS136 Syllabus Fall 2015(2).docx in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732531BCA16B600D77942 /* CS136 Syllabus Fall 2015(2).docx */; settings = {ASSET_TAGS = (); }; };
+		6E67331A1BCA16B700D77942 /* CS136LLab3Report.docx in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732541BCA16B600D77942 /* CS136LLab3Report.docx */; settings = {ASSET_TAGS = (); }; };
+		6E67331B1BCA16B700D77942 /* CustomCar.java in Sources */ = {isa = PBXBuildFile; fileRef = 6E6732551BCA16B600D77942 /* CustomCar.java */; settings = {ASSET_TAGS = (); }; };
+		6E67331C1BCA16B700D77942 /* CustomCarComponent.java in Sources */ = {isa = PBXBuildFile; fileRef = 6E6732561BCA16B600D77942 /* CustomCarComponent.java */; settings = {ASSET_TAGS = (); }; };
+		6E67331D1BCA16B700D77942 /* Dean's List 1151.docx in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732571BCA16B600D77942 /* Dean's List 1151.docx */; settings = {ASSET_TAGS = (); }; };
+		6E67331E1BCA16B700D77942 /* Degree Progression Plan (1).docx in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732581BCA16B600D77942 /* Degree Progression Plan (1).docx */; settings = {ASSET_TAGS = (); }; };
+		6E67331F1BCA16B700D77942 /* Degree Progression Plan.docx in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732591BCA16B600D77942 /* Degree Progression Plan.docx */; settings = {ASSET_TAGS = (); }; };
+		6E6733201BCA16B700D77942 /* discover.png in Resources */ = {isa = PBXBuildFile; fileRef = 6E67325A1BCA16B600D77942 /* discover.png */; settings = {ASSET_TAGS = (); }; };
+		6E6733211BCA16B700D77942 /* Donavon Frankenreiter - What'cha Know About (Full Version).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E67325B1BCA16B600D77942 /* Donavon Frankenreiter - What'cha Know About (Full Version).mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E6733221BCA16B700D77942 /* EE CS485 Individualized Study Contract.doc in Resources */ = {isa = PBXBuildFile; fileRef = 6E67325C1BCA16B600D77942 /* EE CS485 Individualized Study Contract.doc */; settings = {ASSET_TAGS = (); }; };
+		6E6733231BCA16B700D77942 /* EE222_comp_architecture_set2 (2).pptx in Resources */ = {isa = PBXBuildFile; fileRef = 6E67325D1BCA16B600D77942 /* EE222_comp_architecture_set2 (2).pptx */; settings = {ASSET_TAGS = (); }; };
+		6E6733241BCA16B700D77942 /* EE222_course_info_set1a(3).pptx in Resources */ = {isa = PBXBuildFile; fileRef = 6E67325E1BCA16B600D77942 /* EE222_course_info_set1a(3).pptx */; settings = {ASSET_TAGS = (); }; };
+		6E6733251BCA16B700D77942 /* EE222_SyllabusF15 (1).docx in Resources */ = {isa = PBXBuildFile; fileRef = 6E67325F1BCA16B600D77942 /* EE222_SyllabusF15 (1).docx */; settings = {ASSET_TAGS = (); }; };
+		6E6733261BCA16B700D77942 /* EE222_SyllabusF15 (2).docx in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732601BCA16B600D77942 /* EE222_SyllabusF15 (2).docx */; settings = {ASSET_TAGS = (); }; };
+		6E6733271BCA16B700D77942 /* EE222_SyllabusF15 (3).docx in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732611BCA16B600D77942 /* EE222_SyllabusF15 (3).docx */; settings = {ASSET_TAGS = (); }; };
+		6E6733281BCA16B700D77942 /* EE222_SyllabusF15.docx in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732621BCA16B600D77942 /* EE222_SyllabusF15.docx */; settings = {ASSET_TAGS = (); }; };
+		6E6733291BCA16B700D77942 /* EE222PPt7.pptx in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732631BCA16B600D77942 /* EE222PPt7.pptx */; settings = {ASSET_TAGS = (); }; };
+		6E67332A1BCA16B700D77942 /* Ellie Goulding - Tessellate (Alt-J Cover).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732641BCA16B600D77942 /* Ellie Goulding - Tessellate (Alt-J Cover).mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E67332B1BCA16B700D77942 /* Eric Hutchinson- All Over Now.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732651BCA16B600D77942 /* Eric Hutchinson- All Over Now.mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E67332C1BCA16B700D77942 /* Ethnic Diversity definition.doc in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732661BCA16B600D77942 /* Ethnic Diversity definition.doc */; settings = {ASSET_TAGS = (); }; };
+		6E67332D1BCA16B700D77942 /* hello.htm in Resources */ = {isa = PBXBuildFile; fileRef = 6E67326C1BCA16B600D77942 /* hello.htm */; settings = {ASSET_TAGS = (); }; };
+		6E67332E1BCA16B700D77942 /* hello.htm in Resources */ = {isa = PBXBuildFile; fileRef = 6E67326F1BCA16B600D77942 /* hello.htm */; settings = {ASSET_TAGS = (); }; };
+		6E67332F1BCA16B700D77942 /* hello.htm in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732701BCA16B600D77942 /* hello.htm */; settings = {ASSET_TAGS = (); }; };
+		6E6733301BCA16B700D77942 /* hello.htm in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732731BCA16B600D77942 /* hello.htm */; settings = {ASSET_TAGS = (); }; };
+		6E6733311BCA16B700D77942 /* hello.htm in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732741BCA16B600D77942 /* hello.htm */; settings = {ASSET_TAGS = (); }; };
+		6E6733321BCA16B700D77942 /* styles.css in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732781BCA16B600D77942 /* styles.css */; settings = {ASSET_TAGS = (); }; };
+		6E6733331BCA16B700D77942 /* courses.htm in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732791BCA16B600D77942 /* courses.htm */; settings = {ASSET_TAGS = (); }; };
+		6E6733341BCA16B700D77942 /* reading.htm in Resources */ = {isa = PBXBuildFile; fileRef = 6E67327A1BCA16B600D77942 /* reading.htm */; settings = {ASSET_TAGS = (); }; };
+		6E6733351BCA16B700D77942 /* reference.htm in Resources */ = {isa = PBXBuildFile; fileRef = 6E67327B1BCA16B600D77942 /* reference.htm */; settings = {ASSET_TAGS = (); }; };
+		6E6733361BCA16B700D77942 /* specs.htm in Resources */ = {isa = PBXBuildFile; fileRef = 6E67327C1BCA16B600D77942 /* specs.htm */; settings = {ASSET_TAGS = (); }; };
+		6E6733371BCA16B700D77942 /* tools.htm in Resources */ = {isa = PBXBuildFile; fileRef = 6E67327D1BCA16B600D77942 /* tools.htm */; settings = {ASSET_TAGS = (); }; };
+		6E6733381BCA16B700D77942 /* Fetty Wap  - Trap Queen (Official Video).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E67327E1BCA16B600D77942 /* Fetty Wap  - Trap Queen (Official Video).mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E6733391BCA16B700D77942 /* Firefox 41.0.dmg in Resources */ = {isa = PBXBuildFile; fileRef = 6E67327F1BCA16B600D77942 /* Firefox 41.0.dmg */; settings = {ASSET_TAGS = (); }; };
+		6E67333A1BCA16B700D77942 /* Flux36-3.zip in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732801BCA16B600D77942 /* Flux36-3.zip */; settings = {ASSET_TAGS = (); }; };
+		6E67333B1BCA16B700D77942 /* FrequentlyAskedQuestions.doc in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732811BCA16B600D77942 /* FrequentlyAskedQuestions.doc */; settings = {ASSET_TAGS = (); }; };
+		6E67333C1BCA16B700D77942 /* g. love & jack johnson - rainbow.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732821BCA16B600D77942 /* g. love & jack johnson - rainbow.mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E67333D1BCA16B700D77942 /* GarciaJWalkerTLab2.java in Sources */ = {isa = PBXBuildFile; fileRef = 6E6732831BCA16B600D77942 /* GarciaJWalkerTLab2.java */; settings = {ASSET_TAGS = (); }; };
+		6E67333E1BCA16B700D77942 /* GarciaJWalkerTLab2Component.java in Sources */ = {isa = PBXBuildFile; fileRef = 6E6732841BCA16B600D77942 /* GarciaJWalkerTLab2Component.java */; settings = {ASSET_TAGS = (); }; };
+		6E67333F1BCA16B700D77942 /* GarciaJWalkerTLab2Report.docx in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732851BCA16B600D77942 /* GarciaJWalkerTLab2Report.docx */; settings = {ASSET_TAGS = (); }; };
+		6E6733401BCA16B700D77942 /* guessing.docx in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732861BCA16B600D77942 /* guessing.docx */; settings = {ASSET_TAGS = (); }; };
+		6E6733411BCA16B700D77942 /* Hoodie Allen - No Interruption (Official Video).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732871BCA16B600D77942 /* Hoodie Allen - No Interruption (Official Video).mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E6733421BCA16B700D77942 /* IMG_20150711_101048738_HDR.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732881BCA16B600D77942 /* IMG_20150711_101048738_HDR.jpg */; settings = {ASSET_TAGS = (); }; };
+		6E6733431BCA16B700D77942 /* IMG_20150713_210954127.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732891BCA16B600D77942 /* IMG_20150713_210954127.jpg */; settings = {ASSET_TAGS = (); }; };
+		6E6733441BCA16B700D77942 /* IMG_20150714_105705775_HDR.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6E67328A1BCA16B600D77942 /* IMG_20150714_105705775_HDR.jpg */; settings = {ASSET_TAGS = (); }; };
+		6E6733451BCA16B700D77942 /* Iron and Wine - Boy With a Coin.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E67328B1BCA16B600D77942 /* Iron and Wine - Boy With a Coin.mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E6733461BCA16B700D77942 /* jdk-8u60-macosx-x64.dmg in Resources */ = {isa = PBXBuildFile; fileRef = 6E67328C1BCA16B600D77942 /* jdk-8u60-macosx-x64.dmg */; settings = {ASSET_TAGS = (); }; };
+		6E6733471BCA16B700D77942 /* John Butler Trio -  Johnny's Gone.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E67328D1BCA16B600D77942 /* John Butler Trio -  Johnny's Gone.mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E6733481BCA16B700D77942 /* John Butler Trio - I'd Do Anything (Soldier's Lament).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E67328E1BCA16B600D77942 /* John Butler Trio - I'd Do Anything (Soldier's Lament).mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E6733491BCA16B700D77942 /* John Butler Trio - Take Me.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E67328F1BCA16B600D77942 /* John Butler Trio - Take Me.mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E67334A1BCA16B700D77942 /* jre-8u60-macosx-x64.dmg in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732901BCA16B600D77942 /* jre-8u60-macosx-x64.dmg */; settings = {ASSET_TAGS = (); }; };
+		6E67334B1BCA16B700D77942 /* Kidnap Kid - So Close.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732911BCA16B600D77942 /* Kidnap Kid - So Close.mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E67334C1BCA16B700D77942 /* lab1.java in Sources */ = {isa = PBXBuildFile; fileRef = 6E6732921BCA16B600D77942 /* lab1.java */; settings = {ASSET_TAGS = (); }; };
+		6E67334D1BCA16B700D77942 /* Lab10.py in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732931BCA16B600D77942 /* Lab10.py */; settings = {ASSET_TAGS = (); }; };
+		6E67334E1BCA16B700D77942 /* lab12 Blackjack (1) (1).py in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732941BCA16B600D77942 /* lab12 Blackjack (1) (1).py */; settings = {ASSET_TAGS = (); }; };
+		6E67334F1BCA16B700D77942 /* Lab12_Blackjack.docx in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732951BCA16B600D77942 /* Lab12_Blackjack.docx */; settings = {ASSET_TAGS = (); }; };
+		6E6733501BCA16B700D77942 /* Lab1Report.docx in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732961BCA16B600D77942 /* Lab1Report.docx */; settings = {ASSET_TAGS = (); }; };
+		6E6733511BCA16B700D77942 /* Lab2Screenshot.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732971BCA16B600D77942 /* Lab2Screenshot.PNG */; settings = {ASSET_TAGS = (); }; };
+		6E6733521BCA16B700D77942 /* Lecture 1 – Introduction Version 2(1).pptx in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732981BCA16B600D77942 /* Lecture 1 – Introduction Version 2(1).pptx */; settings = {ASSET_TAGS = (); }; };
+		6E6733531BCA16B700D77942 /* Lecture 3 – Java Syntax and Expressions(1).pptx in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732991BCA16B700D77942 /* Lecture 3 – Java Syntax and Expressions(1).pptx */; settings = {ASSET_TAGS = (); }; };
+		6E6733541BCA16B700D77942 /* Lecture 4 – Using Objects(1).pptx in Resources */ = {isa = PBXBuildFile; fileRef = 6E67329A1BCA16B700D77942 /* Lecture 4 – Using Objects(1).pptx */; settings = {ASSET_TAGS = (); }; };
+		6E6733551BCA16B700D77942 /* Marian Hill - Lovit.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E67329B1BCA16B700D77942 /* Marian Hill - Lovit.mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E6733561BCA16B700D77942 /* Melanie Martinez - Carousel (Lyrics).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E67329C1BCA16B700D77942 /* Melanie Martinez - Carousel (Lyrics).mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E6733571BCA16B700D77942 /* Microsoft_Office_2016_Installer.pkg in Resources */ = {isa = PBXBuildFile; fileRef = 6E67329D1BCA16B700D77942 /* Microsoft_Office_2016_Installer.pkg */; settings = {ASSET_TAGS = (); }; };
+		6E6733581BCA16B700D77942 /* midterm 2.docx in Resources */ = {isa = PBXBuildFile; fileRef = 6E67329E1BCA16B700D77942 /* midterm 2.docx */; settings = {ASSET_TAGS = (); }; };
+		6E6733591BCA16B700D77942 /* Mod2_AnxietyDestroyer (1).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E67329F1BCA16B700D77942 /* Mod2_AnxietyDestroyer (1).mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E67335A1BCA16B700D77942 /* Mod2_AnxietyDestroyer.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732A01BCA16B700D77942 /* Mod2_AnxietyDestroyer.mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E67335B1BCA16B700D77942 /* New Microsoft Word Document.docx in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732A11BCA16B700D77942 /* New Microsoft Word Document.docx */; settings = {ASSET_TAGS = (); }; };
+		6E67335C1BCA16B700D77942 /* ODESZA - Say My Name (feat. Zyra).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732A21BCA16B700D77942 /* ODESZA - Say My Name (feat. Zyra).mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E67335D1BCA16B700D77942 /* ODESZA - White Lies (feat. Jenni Potts).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732A31BCA16B700D77942 /* ODESZA - White Lies (feat. Jenni Potts).mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E67335E1BCA16B700D77942 /* Alina Baraz - Paradise (Prod. By ESTA.).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732A51BCA16B700D77942 /* Alina Baraz - Paradise (Prod. By ESTA.).mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E67335F1BCA16B700D77942 /* BROODS - Bridges.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732A61BCA16B700D77942 /* BROODS - Bridges.mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E6733601BCA16B700D77942 /* Drake - Headlines (Explicit).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732A71BCA16B700D77942 /* Drake - Headlines (Explicit).mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E6733611BCA16B700D77942 /* Drake - Started From The Bottom (Lyrics).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732A81BCA16B700D77942 /* Drake - Started From The Bottom (Lyrics).mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E6733621BCA16B700D77942 /* drop the world dirty version.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732A91BCA16B700D77942 /* drop the world dirty version.mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E6733631BCA16B700D77942 /* Eminem - Rap God (Explicit).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732AA1BCA16B700D77942 /* Eminem - Rap God (Explicit).mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E6733641BCA16B700D77942 /* FTSE - Float.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732AB1BCA16B700D77942 /* FTSE - Float.mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E6733651BCA16B700D77942 /* Jhené Aiko - 3-16am.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732AC1BCA16B700D77942 /* Jhené Aiko - 3-16am.mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E6733661BCA16B700D77942 /* Lil Wayne feat. Drake - Right Above It (Dirty).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732AD1BCA16B700D77942 /* Lil Wayne feat. Drake - Right Above It (Dirty).mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E6733671BCA16B700D77942 /* ODESZA - Sun Models (feat. Madelyn Grant).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732AE1BCA16B700D77942 /* ODESZA - Sun Models (feat. Madelyn Grant).mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E6733681BCA16B700D77942 /* Pretty Lights - One Day They'll Know (ODESZA Remix) - A Color Map of the Sun Remixes.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732AF1BCA16B700D77942 /* Pretty Lights - One Day They'll Know (ODESZA Remix) - A Color Map of the Sun Remixes.mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E6733691BCA16B700D77942 /* Say My Name (feat. Zyra) (Jai Wolf Remix).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732B01BCA16B700D77942 /* Say My Name (feat. Zyra) (Jai Wolf Remix).mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E67336A1BCA16B700D77942 /* ZHU - Superfriends.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732B11BCA16B700D77942 /* ZHU - Superfriends.mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E67336B1BCA16B700D77942 /* PaintBucket.java in Sources */ = {isa = PBXBuildFile; fileRef = 6E6732B21BCA16B700D77942 /* PaintBucket.java */; settings = {ASSET_TAGS = (); }; };
+		6E67336C1BCA16B700D77942 /* Paramore- Ain't It Fun [OFFICIAL VIDEO].mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732B31BCA16B700D77942 /* Paramore- Ain't It Fun [OFFICIAL VIDEO].mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E67336D1BCA16B700D77942 /* Paramore- Misery Business [OFFICIAL VIDEO].mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732B41BCA16B700D77942 /* Paramore- Misery Business [OFFICIAL VIDEO].mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E67336E1BCA16B700D77942 /* Paramore- Still Into You [OFFICIAL VIDEO].mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732B51BCA16B700D77942 /* Paramore- Still Into You [OFFICIAL VIDEO].mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E67336F1BCA16B700D77942 /* Paramore- That's What You Get [OFFICIAL VIDEO].mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732B61BCA16B700D77942 /* Paramore- That's What You Get [OFFICIAL VIDEO].mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E6733701BCA16B700D77942 /* Paramore- The Only Exception [OFFICIAL VIDEO].mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732B71BCA16B700D77942 /* Paramore- The Only Exception [OFFICIAL VIDEO].mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E6733711BCA16B700D77942 /* project5_sample_form.php in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732B91BCA16B700D77942 /* project5_sample_form.php */; settings = {ASSET_TAGS = (); }; };
+		6E6733721BCA16B700D77942 /* project5_sample_validator.php in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732BA1BCA16B700D77942 /* project5_sample_validator.php */; settings = {ASSET_TAGS = (); }; };
+		6E6733731BCA16B700D77942 /* PHP_example (1).zip in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732BB1BCA16B700D77942 /* PHP_example (1).zip */; settings = {ASSET_TAGS = (); }; };
+		6E6733741BCA16B700D77942 /* project5_sample_form.php in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732BD1BCA16B700D77942 /* project5_sample_form.php */; settings = {ASSET_TAGS = (); }; };
+		6E6733751BCA16B700D77942 /* project5_sample_validator.php in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732BE1BCA16B700D77942 /* project5_sample_validator.php */; settings = {ASSET_TAGS = (); }; };
+		6E6733761BCA16B700D77942 /* PHP_example.zip in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732BF1BCA16B700D77942 /* PHP_example.zip */; settings = {ASSET_TAGS = (); }; };
+		6E6733771BCA16B700D77942 /* Pity Party - Melanie Martinez (lyrics).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732C01BCA16B700D77942 /* Pity Party - Melanie Martinez (lyrics).mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E6733781BCA16B700D77942 /* Planning Your Web Page.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732C11BCA16B700D77942 /* Planning Your Web Page.pdf */; settings = {ASSET_TAGS = (); }; };
+		6E6733791BCA16B700D77942 /* play.png in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732C21BCA16B700D77942 /* play.png */; settings = {ASSET_TAGS = (); }; };
+		6E67337A1BCA16B700D77942 /* POD_3218393931.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732C31BCA16B700D77942 /* POD_3218393931.pdf */; settings = {ASSET_TAGS = (); }; };
+		6E67337B1BCA16B700D77942 /* Project 1 (1).docx in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732C41BCA16B700D77942 /* Project 1 (1).docx */; settings = {ASSET_TAGS = (); }; };
+		6E67337C1BCA16B700D77942 /* Project 1 (2).docx in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732C51BCA16B700D77942 /* Project 1 (2).docx */; settings = {ASSET_TAGS = (); }; };
+		6E67337D1BCA16B700D77942 /* Project 1.docx in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732C61BCA16B700D77942 /* Project 1.docx */; settings = {ASSET_TAGS = (); }; };
+		6E67337E1BCA16B700D77942 /* Project 2 (1).docx in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732C71BCA16B700D77942 /* Project 2 (1).docx */; settings = {ASSET_TAGS = (); }; };
+		6E67337F1BCA16B700D77942 /* Project 2.docx in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732C81BCA16B700D77942 /* Project 2.docx */; settings = {ASSET_TAGS = (); }; };
+		6E6733801BCA16B700D77942 /* Project 3 (1).docx in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732C91BCA16B700D77942 /* Project 3 (1).docx */; settings = {ASSET_TAGS = (); }; };
+		6E6733811BCA16B700D77942 /* Project 3.docx in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732CA1BCA16B700D77942 /* Project 3.docx */; settings = {ASSET_TAGS = (); }; };
+		6E6733821BCA16B700D77942 /* Project 4 (1).docx in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732CB1BCA16B700D77942 /* Project 4 (1).docx */; settings = {ASSET_TAGS = (); }; };
+		6E6733831BCA16B700D77942 /* Project 4 (2).docx in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732CC1BCA16B700D77942 /* Project 4 (2).docx */; settings = {ASSET_TAGS = (); }; };
+		6E6733841BCA16B700D77942 /* Project 4.docx in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732CD1BCA16B700D77942 /* Project 4.docx */; settings = {ASSET_TAGS = (); }; };
+		6E6733851BCA16B700D77942 /* Project 5 (1).docx in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732CE1BCA16B700D77942 /* Project 5 (1).docx */; settings = {ASSET_TAGS = (); }; };
+		6E6733861BCA16B700D77942 /* Project 5.docx in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732CF1BCA16B700D77942 /* Project 5.docx */; settings = {ASSET_TAGS = (); }; };
+		6E6733871BCA16B700D77942 /* python-3.4.2-macosx10.6.pkg in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732D01BCA16B700D77942 /* python-3.4.2-macosx10.6.pkg */; settings = {ASSET_TAGS = (); }; };
+		6E6733881BCA16B700D77942 /* quiz 1 att 2.docx in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732D11BCA16B700D77942 /* quiz 1 att 2.docx */; settings = {ASSET_TAGS = (); }; };
+		6E6733891BCA16B700D77942 /* quiz 1.docx in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732D21BCA16B700D77942 /* quiz 1.docx */; settings = {ASSET_TAGS = (); }; };
+		6E67338A1BCA16B700D77942 /* quiz 2 first.docx in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732D31BCA16B700D77942 /* quiz 2 first.docx */; settings = {ASSET_TAGS = (); }; };
+		6E67338B1BCA16B700D77942 /* quiz 3 att 1.docx in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732D41BCA16B700D77942 /* quiz 3 att 1.docx */; settings = {ASSET_TAGS = (); }; };
+		6E67338C1BCA16B700D77942 /* quiz 4.docx in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732D51BCA16B700D77942 /* quiz 4.docx */; settings = {ASSET_TAGS = (); }; };
+		6E67338D1BCA16B700D77942 /* Rappin 4 Tay - Players Club.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732D61BCA16B700D77942 /* Rappin 4 Tay - Players Club.mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E67338E1BCA16B700D77942 /* Relient K-Be My Escape w- lyrics.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732D71BCA16B700D77942 /* Relient K-Be My Escape w- lyrics.mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E67338F1BCA16B700D77942 /* Rise Against - Drones.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732D81BCA16B700D77942 /* Rise Against - Drones.mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E6733901BCA16B700D77942 /* Rise Against - Savior.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732D91BCA16B700D77942 /* Rise Against - Savior.mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E6733911BCA16B700D77942 /* Rise Against - The Good Left Undone.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732DA1BCA16B700D77942 /* Rise Against - The Good Left Undone.mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E6733921BCA16B700D77942 /* SafeConnectMacInstaller 2.pkg in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732DB1BCA16B700D77942 /* SafeConnectMacInstaller 2.pkg */; settings = {ASSET_TAGS = (); }; };
+		6E6733931BCA16B700D77942 /* SafeConnectMacInstaller.pkg in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732DC1BCA16B700D77942 /* SafeConnectMacInstaller.pkg */; settings = {ASSET_TAGS = (); }; };
+		6E6733941BCA16B700D77942 /* SafeConnectMacInstaller.zip in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732DD1BCA16B700D77942 /* SafeConnectMacInstaller.zip */; settings = {ASSET_TAGS = (); }; };
+		6E6733951BCA16B700D77942 /* Screen Shot 2015-09-02 at 6.05.46 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732DE1BCA16B700D77942 /* Screen Shot 2015-09-02 at 6.05.46 PM.png */; settings = {ASSET_TAGS = (); }; };
+		6E6733961BCA16B700D77942 /* screens convert FINAL2.png in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732DF1BCA16B700D77942 /* screens convert FINAL2.png */; settings = {ASSET_TAGS = (); }; };
+		6E6733971BCA16B700D77942 /* screens convert FINAL3.png in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732E01BCA16B700D77942 /* screens convert FINAL3.png */; settings = {ASSET_TAGS = (); }; };
+		6E6733981BCA16B700D77942 /* screens convert FINAL4.png in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732E11BCA16B700D77942 /* screens convert FINAL4.png */; settings = {ASSET_TAGS = (); }; };
+		6E6733991BCA16B700D77942 /* SDS014.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732E21BCA16B700D77942 /* SDS014.mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E67339A1BCA16B700D77942 /* Secondhand Serenade - Fall For You.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732E31BCA16B700D77942 /* Secondhand Serenade - Fall For You.mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E67339B1BCA16B700D77942 /* shockingfit-com-advanced-strength-hypetrophy-12-weeks-workout-routine.xlsx in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732E41BCA16B700D77942 /* shockingfit-com-advanced-strength-hypetrophy-12-weeks-workout-routine.xlsx */; settings = {ASSET_TAGS = (); }; };
+		6E67339C1BCA16B700D77942 /* signin.png in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732E51BCA16B700D77942 /* signin.png */; settings = {ASSET_TAGS = (); }; };
+		6E67339D1BCA16B700D77942 /* Skee-Lo - I Wish (Official Video).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732E61BCA16B700D77942 /* Skee-Lo - I Wish (Official Video).mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E67339E1BCA16B700D77942 /* Slightly Stoopid - Wiseman lyrics.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732E71BCA16B700D77942 /* Slightly Stoopid - Wiseman lyrics.mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E67339F1BCA16B700D77942 /* The Offspring - Half-Truism (Lyrics).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732E81BCA16B700D77942 /* The Offspring - Half-Truism (Lyrics).mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E6733A01BCA16B700D77942 /* The Offspring - You're Gonna Go Far, Kid.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732E91BCA16B700D77942 /* The Offspring - You're Gonna Go Far, Kid.mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E6733A11BCA16B700D77942 /* twenty one pilots- Fairly Local [OFFICIAL VIDEO].mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732EA1BCA16B700D77942 /* twenty one pilots- Fairly Local [OFFICIAL VIDEO].mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E6733A21BCA16B700D77942 /* twenty one pilots- Stressed Out [OFFICIAL VIDEO].mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732EB1BCA16B700D77942 /* twenty one pilots- Stressed Out [OFFICIAL VIDEO].mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E6733A31BCA16B700D77942 /* UGRD - Lib Studies_Diversity Petition - 5089314 Taylor Walker 3_12_2015.html in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732EC1BCA16B700D77942 /* UGRD - Lib Studies_Diversity Petition - 5089314 Taylor Walker 3_12_2015.html */; settings = {ASSET_TAGS = (); }; };
+		6E6733A41BCA16B700D77942 /* World-of-Warcraft-Setup-enUS.zip in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732ED1BCA16B700D77942 /* World-of-Warcraft-Setup-enUS.zip */; settings = {ASSET_TAGS = (); }; };
+		6E6733A51BCA16B700D77942 /* xampp-osx-5.6.12-0-installer (1).dmg in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732EE1BCA16B700D77942 /* xampp-osx-5.6.12-0-installer (1).dmg */; settings = {ASSET_TAGS = (); }; };
+		6E6733A61BCA16B700D77942 /* xampp-osx-5.6.12-0-installer.dmg in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732EF1BCA16B700D77942 /* xampp-osx-5.6.12-0-installer.dmg */; settings = {ASSET_TAGS = (); }; };
+		6E6733A71BCA16B700D77942 /* ZHU - Faded (Odesza Remix) (1).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732F01BCA16B700D77942 /* ZHU - Faded (Odesza Remix) (1).mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E6733A81BCA16B700D77942 /* ZHU - Faded (Odesza Remix).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732F11BCA16B700D77942 /* ZHU - Faded (Odesza Remix).mp3 */; settings = {ASSET_TAGS = (); }; };
+		6E6733A91BCA16B700D77942 /* Zion I- Coastin' (official music video).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6E6732F21BCA16B700D77942 /* Zion I- Coastin' (official music video).mp3 */; settings = {ASSET_TAGS = (); }; };
 		6EA1D3D41BC9B65B00F85CC5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6EA1D3D31BC9B65B00F85CC5 /* main.m */; };
 		6EA1D3D71BC9B65B00F85CC5 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6EA1D3D61BC9B65B00F85CC5 /* AppDelegate.m */; };
 		6EA1D3DA1BC9B65B00F85CC5 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6EA1D3D91BC9B65B00F85CC5 /* ViewController.m */; };
@@ -42,6 +225,189 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6E67322A1BCA16B600D77942 /* .localized */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .localized; sourceTree = "<group>"; };
+		6E67322B1BCA16B600D77942 /* 01 Mod2_DealingWUnwantedStates.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "01 Mod2_DealingWUnwantedStates.mp3"; sourceTree = "<group>"; };
+		6E67322C1BCA16B600D77942 /* 01 Mod4_GettingYourInnerTeamOnboard.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "01 Mod4_GettingYourInnerTeamOnboard.mp3"; sourceTree = "<group>"; };
+		6E67322D1BCA16B600D77942 /* 01 Mod4_Modeling.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "01 Mod4_Modeling.mp3"; sourceTree = "<group>"; };
+		6E67322E1BCA16B600D77942 /* 01 Mod5_BeingPresent.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "01 Mod5_BeingPresent.mp3"; sourceTree = "<group>"; };
+		6E67322F1BCA16B600D77942 /* 01 Mod6_MaintingMomentum.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "01 Mod6_MaintingMomentum.mp3"; sourceTree = "<group>"; };
+		6E6732301BCA16B600D77942 /* 01 Track 1 (1).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "01 Track 1 (1).mp3"; sourceTree = "<group>"; };
+		6E6732311BCA16B600D77942 /* 01 Track 1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "01 Track 1.mp3"; sourceTree = "<group>"; };
+		6E6732321BCA16B600D77942 /* 01 Track 1.wma */ = {isa = PBXFileReference; lastKnownFileType = file; path = "01 Track 1.wma"; sourceTree = "<group>"; };
+		6E6732341BCA16B600D77942 /* grade_report.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = grade_report.html; sourceTree = "<group>"; };
+		6E6732351BCA16B600D77942 /* 136Syllabus.11G.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = 136Syllabus.11G.docx; sourceTree = "<group>"; };
+		6E6732361BCA16B600D77942 /* 20150523_183420_resized.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 20150523_183420_resized.jpg; sourceTree = "<group>"; };
+		6E6732371BCA16B600D77942 /* 20150523_183740_resized.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 20150523_183740_resized.jpg; sourceTree = "<group>"; };
+		6E6732381BCA16B600D77942 /* 20150523_184101_resized.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 20150523_184101_resized.jpg; sourceTree = "<group>"; };
+		6E6732391BCA16B600D77942 /* 20150523_185037_resized.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 20150523_185037_resized.jpg; sourceTree = "<group>"; };
+		6E67323A1BCA16B600D77942 /* 20150523_190310_resized.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 20150523_190310_resized.jpg; sourceTree = "<group>"; };
+		6E67323B1BCA16B600D77942 /* 20150523_190722_resized_1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 20150523_190722_resized_1.jpg; sourceTree = "<group>"; };
+		6E67323D1BCA16B600D77942 /* Lab10.cpython-34.pyc */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lab10.cpython-34.pyc"; sourceTree = "<group>"; };
+		6E67323E1BCA16B600D77942 /* Academic Plan (1).doc */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Academic Plan (1).doc"; sourceTree = "<group>"; };
+		6E67323F1BCA16B600D77942 /* Academic Plan.doc */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Academic Plan.doc"; sourceTree = "<group>"; };
+		6E6732401BCA16B600D77942 /* Aer - I Can't Help It (Official Music Video).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Aer - I Can't Help It (Official Music Video).mp3"; sourceTree = "<group>"; };
+		6E6732411BCA16B600D77942 /* Aer - Like the Way (Official Music Video).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Aer - Like the Way (Official Music Video).mp3"; sourceTree = "<group>"; };
+		6E6732421BCA16B600D77942 /* Alicia Keys - Killing Me Softly.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Alicia Keys - Killing Me Softly.mp3"; sourceTree = "<group>"; };
+		6E6732431BCA16B600D77942 /* Alina Baraz & Galimatias - Unfold.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Alina Baraz & Galimatias - Unfold.mp3"; sourceTree = "<group>"; };
+		6E6732441BCA16B600D77942 /* Alina Baraz - Art Of Persuasion(esta. remix).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Alina Baraz - Art Of Persuasion(esta. remix).mp3"; sourceTree = "<group>"; };
+		6E6732451BCA16B600D77942 /* atom-mac.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "atom-mac.zip"; sourceTree = "<group>"; };
+		6E6732461BCA16B600D77942 /* back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = back.png; sourceTree = "<group>"; };
+		6E6732471BCA16B600D77942 /* BANKS - Change (Prod. Tim Anderson).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "BANKS - Change (Prod. Tim Anderson).mp3"; sourceTree = "<group>"; };
+		6E6732481BCA16B600D77942 /* Beck - Go it Alone.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Beck - Go it Alone.mp3"; sourceTree = "<group>"; };
+		6E6732491BCA16B600D77942 /* Blink 182 - Dumpweed (With Lyrics!).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Blink 182 - Dumpweed (With Lyrics!).mp3"; sourceTree = "<group>"; };
+		6E67324A1BCA16B600D77942 /* ClassicFTP_i.dmg */ = {isa = PBXFileReference; lastKnownFileType = file; path = ClassicFTP_i.dmg; sourceTree = "<group>"; };
+		6E67324B1BCA16B600D77942 /* classicmaci.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = classicmaci.zip; sourceTree = "<group>"; };
+		6E67324D1BCA16B600D77942 /* Crushing The Microstakes.epub */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Crushing The Microstakes.epub"; sourceTree = "<group>"; };
+		6E67324E1BCA16B600D77942 /* Crushing The Microstakes.mobi */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Crushing The Microstakes.mobi"; sourceTree = "<group>"; };
+		6E67324F1BCA16B600D77942 /* Crushing the Microstakes.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Crushing the Microstakes.pdf"; sourceTree = "<group>"; };
+		6E6732501BCA16B600D77942 /* crushing_the_microstakes.rar */ = {isa = PBXFileReference; lastKnownFileType = file; path = crushing_the_microstakes.rar; sourceTree = "<group>"; };
+		6E6732511BCA16B600D77942 /* CS112 2015 Spring course calendar.xls */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CS112 2015 Spring course calendar.xls"; sourceTree = "<group>"; };
+		6E6732521BCA16B600D77942 /* CS136 Syllabus Fall 2015(1).docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CS136 Syllabus Fall 2015(1).docx"; sourceTree = "<group>"; };
+		6E6732531BCA16B600D77942 /* CS136 Syllabus Fall 2015(2).docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CS136 Syllabus Fall 2015(2).docx"; sourceTree = "<group>"; };
+		6E6732541BCA16B600D77942 /* CS136LLab3Report.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = CS136LLab3Report.docx; sourceTree = "<group>"; };
+		6E6732551BCA16B600D77942 /* CustomCar.java */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.java; path = CustomCar.java; sourceTree = "<group>"; };
+		6E6732561BCA16B600D77942 /* CustomCarComponent.java */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.java; path = CustomCarComponent.java; sourceTree = "<group>"; };
+		6E6732571BCA16B600D77942 /* Dean's List 1151.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Dean's List 1151.docx"; sourceTree = "<group>"; };
+		6E6732581BCA16B600D77942 /* Degree Progression Plan (1).docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Degree Progression Plan (1).docx"; sourceTree = "<group>"; };
+		6E6732591BCA16B600D77942 /* Degree Progression Plan.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Degree Progression Plan.docx"; sourceTree = "<group>"; };
+		6E67325A1BCA16B600D77942 /* discover.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = discover.png; sourceTree = "<group>"; };
+		6E67325B1BCA16B600D77942 /* Donavon Frankenreiter - What'cha Know About (Full Version).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Donavon Frankenreiter - What'cha Know About (Full Version).mp3"; sourceTree = "<group>"; };
+		6E67325C1BCA16B600D77942 /* EE CS485 Individualized Study Contract.doc */ = {isa = PBXFileReference; lastKnownFileType = file; path = "EE CS485 Individualized Study Contract.doc"; sourceTree = "<group>"; };
+		6E67325D1BCA16B600D77942 /* EE222_comp_architecture_set2 (2).pptx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "EE222_comp_architecture_set2 (2).pptx"; sourceTree = "<group>"; };
+		6E67325E1BCA16B600D77942 /* EE222_course_info_set1a(3).pptx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "EE222_course_info_set1a(3).pptx"; sourceTree = "<group>"; };
+		6E67325F1BCA16B600D77942 /* EE222_SyllabusF15 (1).docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "EE222_SyllabusF15 (1).docx"; sourceTree = "<group>"; };
+		6E6732601BCA16B600D77942 /* EE222_SyllabusF15 (2).docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "EE222_SyllabusF15 (2).docx"; sourceTree = "<group>"; };
+		6E6732611BCA16B600D77942 /* EE222_SyllabusF15 (3).docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "EE222_SyllabusF15 (3).docx"; sourceTree = "<group>"; };
+		6E6732621BCA16B600D77942 /* EE222_SyllabusF15.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = EE222_SyllabusF15.docx; sourceTree = "<group>"; };
+		6E6732631BCA16B600D77942 /* EE222PPt7.pptx */ = {isa = PBXFileReference; lastKnownFileType = file; path = EE222PPt7.pptx; sourceTree = "<group>"; };
+		6E6732641BCA16B600D77942 /* Ellie Goulding - Tessellate (Alt-J Cover).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Ellie Goulding - Tessellate (Alt-J Cover).mp3"; sourceTree = "<group>"; };
+		6E6732651BCA16B600D77942 /* Eric Hutchinson- All Over Now.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Eric Hutchinson- All Over Now.mp3"; sourceTree = "<group>"; };
+		6E6732661BCA16B600D77942 /* Ethnic Diversity definition.doc */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Ethnic Diversity definition.doc"; sourceTree = "<group>"; };
+		6E67326C1BCA16B600D77942 /* hello.htm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = hello.htm; sourceTree = "<group>"; };
+		6E67326F1BCA16B600D77942 /* hello.htm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = hello.htm; sourceTree = "<group>"; };
+		6E6732701BCA16B600D77942 /* hello.htm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = hello.htm; sourceTree = "<group>"; };
+		6E6732731BCA16B600D77942 /* hello.htm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = hello.htm; sourceTree = "<group>"; };
+		6E6732741BCA16B600D77942 /* hello.htm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = hello.htm; sourceTree = "<group>"; };
+		6E6732781BCA16B600D77942 /* styles.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = styles.css; sourceTree = "<group>"; };
+		6E6732791BCA16B600D77942 /* courses.htm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = courses.htm; sourceTree = "<group>"; };
+		6E67327A1BCA16B600D77942 /* reading.htm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = reading.htm; sourceTree = "<group>"; };
+		6E67327B1BCA16B600D77942 /* reference.htm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = reference.htm; sourceTree = "<group>"; };
+		6E67327C1BCA16B600D77942 /* specs.htm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = specs.htm; sourceTree = "<group>"; };
+		6E67327D1BCA16B600D77942 /* tools.htm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = tools.htm; sourceTree = "<group>"; };
+		6E67327E1BCA16B600D77942 /* Fetty Wap  - Trap Queen (Official Video).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Fetty Wap  - Trap Queen (Official Video).mp3"; sourceTree = "<group>"; };
+		6E67327F1BCA16B600D77942 /* Firefox 41.0.dmg */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Firefox 41.0.dmg"; sourceTree = "<group>"; };
+		6E6732801BCA16B600D77942 /* Flux36-3.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "Flux36-3.zip"; sourceTree = "<group>"; };
+		6E6732811BCA16B600D77942 /* FrequentlyAskedQuestions.doc */ = {isa = PBXFileReference; lastKnownFileType = file; path = FrequentlyAskedQuestions.doc; sourceTree = "<group>"; };
+		6E6732821BCA16B600D77942 /* g. love & jack johnson - rainbow.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "g. love & jack johnson - rainbow.mp3"; sourceTree = "<group>"; };
+		6E6732831BCA16B600D77942 /* GarciaJWalkerTLab2.java */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.java; path = GarciaJWalkerTLab2.java; sourceTree = "<group>"; };
+		6E6732841BCA16B600D77942 /* GarciaJWalkerTLab2Component.java */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.java; path = GarciaJWalkerTLab2Component.java; sourceTree = "<group>"; };
+		6E6732851BCA16B600D77942 /* GarciaJWalkerTLab2Report.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = GarciaJWalkerTLab2Report.docx; sourceTree = "<group>"; };
+		6E6732861BCA16B600D77942 /* guessing.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = guessing.docx; sourceTree = "<group>"; };
+		6E6732871BCA16B600D77942 /* Hoodie Allen - No Interruption (Official Video).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Hoodie Allen - No Interruption (Official Video).mp3"; sourceTree = "<group>"; };
+		6E6732881BCA16B600D77942 /* IMG_20150711_101048738_HDR.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_20150711_101048738_HDR.jpg; sourceTree = "<group>"; };
+		6E6732891BCA16B600D77942 /* IMG_20150713_210954127.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_20150713_210954127.jpg; sourceTree = "<group>"; };
+		6E67328A1BCA16B600D77942 /* IMG_20150714_105705775_HDR.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_20150714_105705775_HDR.jpg; sourceTree = "<group>"; };
+		6E67328B1BCA16B600D77942 /* Iron and Wine - Boy With a Coin.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Iron and Wine - Boy With a Coin.mp3"; sourceTree = "<group>"; };
+		6E67328C1BCA16B600D77942 /* jdk-8u60-macosx-x64.dmg */ = {isa = PBXFileReference; lastKnownFileType = file; path = "jdk-8u60-macosx-x64.dmg"; sourceTree = "<group>"; };
+		6E67328D1BCA16B600D77942 /* John Butler Trio -  Johnny's Gone.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "John Butler Trio -  Johnny's Gone.mp3"; sourceTree = "<group>"; };
+		6E67328E1BCA16B600D77942 /* John Butler Trio - I'd Do Anything (Soldier's Lament).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "John Butler Trio - I'd Do Anything (Soldier's Lament).mp3"; sourceTree = "<group>"; };
+		6E67328F1BCA16B600D77942 /* John Butler Trio - Take Me.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "John Butler Trio - Take Me.mp3"; sourceTree = "<group>"; };
+		6E6732901BCA16B600D77942 /* jre-8u60-macosx-x64.dmg */ = {isa = PBXFileReference; lastKnownFileType = file; path = "jre-8u60-macosx-x64.dmg"; sourceTree = "<group>"; };
+		6E6732911BCA16B600D77942 /* Kidnap Kid - So Close.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Kidnap Kid - So Close.mp3"; sourceTree = "<group>"; };
+		6E6732921BCA16B600D77942 /* lab1.java */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.java; path = lab1.java; sourceTree = "<group>"; };
+		6E6732931BCA16B600D77942 /* Lab10.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = Lab10.py; sourceTree = "<group>"; };
+		6E6732941BCA16B600D77942 /* lab12 Blackjack (1) (1).py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = "lab12 Blackjack (1) (1).py"; sourceTree = "<group>"; };
+		6E6732951BCA16B600D77942 /* Lab12_Blackjack.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = Lab12_Blackjack.docx; sourceTree = "<group>"; };
+		6E6732961BCA16B600D77942 /* Lab1Report.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = Lab1Report.docx; sourceTree = "<group>"; };
+		6E6732971BCA16B600D77942 /* Lab2Screenshot.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Lab2Screenshot.PNG; sourceTree = "<group>"; };
+		6E6732981BCA16B600D77942 /* Lecture 1 – Introduction Version 2(1).pptx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lecture 1 – Introduction Version 2(1).pptx"; sourceTree = "<group>"; };
+		6E6732991BCA16B700D77942 /* Lecture 3 – Java Syntax and Expressions(1).pptx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lecture 3 – Java Syntax and Expressions(1).pptx"; sourceTree = "<group>"; };
+		6E67329A1BCA16B700D77942 /* Lecture 4 – Using Objects(1).pptx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lecture 4 – Using Objects(1).pptx"; sourceTree = "<group>"; };
+		6E67329B1BCA16B700D77942 /* Marian Hill - Lovit.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Marian Hill - Lovit.mp3"; sourceTree = "<group>"; };
+		6E67329C1BCA16B700D77942 /* Melanie Martinez - Carousel (Lyrics).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Melanie Martinez - Carousel (Lyrics).mp3"; sourceTree = "<group>"; };
+		6E67329D1BCA16B700D77942 /* Microsoft_Office_2016_Installer.pkg */ = {isa = PBXFileReference; lastKnownFileType = file; path = Microsoft_Office_2016_Installer.pkg; sourceTree = "<group>"; };
+		6E67329E1BCA16B700D77942 /* midterm 2.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "midterm 2.docx"; sourceTree = "<group>"; };
+		6E67329F1BCA16B700D77942 /* Mod2_AnxietyDestroyer (1).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Mod2_AnxietyDestroyer (1).mp3"; sourceTree = "<group>"; };
+		6E6732A01BCA16B700D77942 /* Mod2_AnxietyDestroyer.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Mod2_AnxietyDestroyer.mp3; sourceTree = "<group>"; };
+		6E6732A11BCA16B700D77942 /* New Microsoft Word Document.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "New Microsoft Word Document.docx"; sourceTree = "<group>"; };
+		6E6732A21BCA16B700D77942 /* ODESZA - Say My Name (feat. Zyra).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ODESZA - Say My Name (feat. Zyra).mp3"; sourceTree = "<group>"; };
+		6E6732A31BCA16B700D77942 /* ODESZA - White Lies (feat. Jenni Potts).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ODESZA - White Lies (feat. Jenni Potts).mp3"; sourceTree = "<group>"; };
+		6E6732A51BCA16B700D77942 /* Alina Baraz - Paradise (Prod. By ESTA.).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Alina Baraz - Paradise (Prod. By ESTA.).mp3"; sourceTree = "<group>"; };
+		6E6732A61BCA16B700D77942 /* BROODS - Bridges.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "BROODS - Bridges.mp3"; sourceTree = "<group>"; };
+		6E6732A71BCA16B700D77942 /* Drake - Headlines (Explicit).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Drake - Headlines (Explicit).mp3"; sourceTree = "<group>"; };
+		6E6732A81BCA16B700D77942 /* Drake - Started From The Bottom (Lyrics).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Drake - Started From The Bottom (Lyrics).mp3"; sourceTree = "<group>"; };
+		6E6732A91BCA16B700D77942 /* drop the world dirty version.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "drop the world dirty version.mp3"; sourceTree = "<group>"; };
+		6E6732AA1BCA16B700D77942 /* Eminem - Rap God (Explicit).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Eminem - Rap God (Explicit).mp3"; sourceTree = "<group>"; };
+		6E6732AB1BCA16B700D77942 /* FTSE - Float.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "FTSE - Float.mp3"; sourceTree = "<group>"; };
+		6E6732AC1BCA16B700D77942 /* Jhené Aiko - 3-16am.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Jhené Aiko - 3-16am.mp3"; sourceTree = "<group>"; };
+		6E6732AD1BCA16B700D77942 /* Lil Wayne feat. Drake - Right Above It (Dirty).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Lil Wayne feat. Drake - Right Above It (Dirty).mp3"; sourceTree = "<group>"; };
+		6E6732AE1BCA16B700D77942 /* ODESZA - Sun Models (feat. Madelyn Grant).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ODESZA - Sun Models (feat. Madelyn Grant).mp3"; sourceTree = "<group>"; };
+		6E6732AF1BCA16B700D77942 /* Pretty Lights - One Day They'll Know (ODESZA Remix) - A Color Map of the Sun Remixes.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Pretty Lights - One Day They'll Know (ODESZA Remix) - A Color Map of the Sun Remixes.mp3"; sourceTree = "<group>"; };
+		6E6732B01BCA16B700D77942 /* Say My Name (feat. Zyra) (Jai Wolf Remix).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Say My Name (feat. Zyra) (Jai Wolf Remix).mp3"; sourceTree = "<group>"; };
+		6E6732B11BCA16B700D77942 /* ZHU - Superfriends.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ZHU - Superfriends.mp3"; sourceTree = "<group>"; };
+		6E6732B21BCA16B700D77942 /* PaintBucket.java */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.java; path = PaintBucket.java; sourceTree = "<group>"; };
+		6E6732B31BCA16B700D77942 /* Paramore- Ain't It Fun [OFFICIAL VIDEO].mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Paramore- Ain't It Fun [OFFICIAL VIDEO].mp3"; sourceTree = "<group>"; };
+		6E6732B41BCA16B700D77942 /* Paramore- Misery Business [OFFICIAL VIDEO].mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Paramore- Misery Business [OFFICIAL VIDEO].mp3"; sourceTree = "<group>"; };
+		6E6732B51BCA16B700D77942 /* Paramore- Still Into You [OFFICIAL VIDEO].mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Paramore- Still Into You [OFFICIAL VIDEO].mp3"; sourceTree = "<group>"; };
+		6E6732B61BCA16B700D77942 /* Paramore- That's What You Get [OFFICIAL VIDEO].mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Paramore- That's What You Get [OFFICIAL VIDEO].mp3"; sourceTree = "<group>"; };
+		6E6732B71BCA16B700D77942 /* Paramore- The Only Exception [OFFICIAL VIDEO].mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Paramore- The Only Exception [OFFICIAL VIDEO].mp3"; sourceTree = "<group>"; };
+		6E6732B91BCA16B700D77942 /* project5_sample_form.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = project5_sample_form.php; sourceTree = "<group>"; };
+		6E6732BA1BCA16B700D77942 /* project5_sample_validator.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = project5_sample_validator.php; sourceTree = "<group>"; };
+		6E6732BB1BCA16B700D77942 /* PHP_example (1).zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "PHP_example (1).zip"; sourceTree = "<group>"; };
+		6E6732BD1BCA16B700D77942 /* project5_sample_form.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = project5_sample_form.php; sourceTree = "<group>"; };
+		6E6732BE1BCA16B700D77942 /* project5_sample_validator.php */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.php; path = project5_sample_validator.php; sourceTree = "<group>"; };
+		6E6732BF1BCA16B700D77942 /* PHP_example.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = PHP_example.zip; sourceTree = "<group>"; };
+		6E6732C01BCA16B700D77942 /* Pity Party - Melanie Martinez (lyrics).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Pity Party - Melanie Martinez (lyrics).mp3"; sourceTree = "<group>"; };
+		6E6732C11BCA16B700D77942 /* Planning Your Web Page.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Planning Your Web Page.pdf"; sourceTree = "<group>"; };
+		6E6732C21BCA16B700D77942 /* play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = play.png; sourceTree = "<group>"; };
+		6E6732C31BCA16B700D77942 /* POD_3218393931.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = POD_3218393931.pdf; sourceTree = "<group>"; };
+		6E6732C41BCA16B700D77942 /* Project 1 (1).docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Project 1 (1).docx"; sourceTree = "<group>"; };
+		6E6732C51BCA16B700D77942 /* Project 1 (2).docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Project 1 (2).docx"; sourceTree = "<group>"; };
+		6E6732C61BCA16B700D77942 /* Project 1.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Project 1.docx"; sourceTree = "<group>"; };
+		6E6732C71BCA16B700D77942 /* Project 2 (1).docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Project 2 (1).docx"; sourceTree = "<group>"; };
+		6E6732C81BCA16B700D77942 /* Project 2.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Project 2.docx"; sourceTree = "<group>"; };
+		6E6732C91BCA16B700D77942 /* Project 3 (1).docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Project 3 (1).docx"; sourceTree = "<group>"; };
+		6E6732CA1BCA16B700D77942 /* Project 3.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Project 3.docx"; sourceTree = "<group>"; };
+		6E6732CB1BCA16B700D77942 /* Project 4 (1).docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Project 4 (1).docx"; sourceTree = "<group>"; };
+		6E6732CC1BCA16B700D77942 /* Project 4 (2).docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Project 4 (2).docx"; sourceTree = "<group>"; };
+		6E6732CD1BCA16B700D77942 /* Project 4.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Project 4.docx"; sourceTree = "<group>"; };
+		6E6732CE1BCA16B700D77942 /* Project 5 (1).docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Project 5 (1).docx"; sourceTree = "<group>"; };
+		6E6732CF1BCA16B700D77942 /* Project 5.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Project 5.docx"; sourceTree = "<group>"; };
+		6E6732D01BCA16B700D77942 /* python-3.4.2-macosx10.6.pkg */ = {isa = PBXFileReference; lastKnownFileType = file; path = "python-3.4.2-macosx10.6.pkg"; sourceTree = "<group>"; };
+		6E6732D11BCA16B700D77942 /* quiz 1 att 2.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "quiz 1 att 2.docx"; sourceTree = "<group>"; };
+		6E6732D21BCA16B700D77942 /* quiz 1.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "quiz 1.docx"; sourceTree = "<group>"; };
+		6E6732D31BCA16B700D77942 /* quiz 2 first.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "quiz 2 first.docx"; sourceTree = "<group>"; };
+		6E6732D41BCA16B700D77942 /* quiz 3 att 1.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "quiz 3 att 1.docx"; sourceTree = "<group>"; };
+		6E6732D51BCA16B700D77942 /* quiz 4.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "quiz 4.docx"; sourceTree = "<group>"; };
+		6E6732D61BCA16B700D77942 /* Rappin 4 Tay - Players Club.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Rappin 4 Tay - Players Club.mp3"; sourceTree = "<group>"; };
+		6E6732D71BCA16B700D77942 /* Relient K-Be My Escape w- lyrics.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Relient K-Be My Escape w- lyrics.mp3"; sourceTree = "<group>"; };
+		6E6732D81BCA16B700D77942 /* Rise Against - Drones.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Rise Against - Drones.mp3"; sourceTree = "<group>"; };
+		6E6732D91BCA16B700D77942 /* Rise Against - Savior.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Rise Against - Savior.mp3"; sourceTree = "<group>"; };
+		6E6732DA1BCA16B700D77942 /* Rise Against - The Good Left Undone.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Rise Against - The Good Left Undone.mp3"; sourceTree = "<group>"; };
+		6E6732DB1BCA16B700D77942 /* SafeConnectMacInstaller 2.pkg */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SafeConnectMacInstaller 2.pkg"; sourceTree = "<group>"; };
+		6E6732DC1BCA16B700D77942 /* SafeConnectMacInstaller.pkg */ = {isa = PBXFileReference; lastKnownFileType = file; path = SafeConnectMacInstaller.pkg; sourceTree = "<group>"; };
+		6E6732DD1BCA16B700D77942 /* SafeConnectMacInstaller.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = SafeConnectMacInstaller.zip; sourceTree = "<group>"; };
+		6E6732DE1BCA16B700D77942 /* Screen Shot 2015-09-02 at 6.05.46 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2015-09-02 at 6.05.46 PM.png"; sourceTree = "<group>"; };
+		6E6732DF1BCA16B700D77942 /* screens convert FINAL2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "screens convert FINAL2.png"; sourceTree = "<group>"; };
+		6E6732E01BCA16B700D77942 /* screens convert FINAL3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "screens convert FINAL3.png"; sourceTree = "<group>"; };
+		6E6732E11BCA16B700D77942 /* screens convert FINAL4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "screens convert FINAL4.png"; sourceTree = "<group>"; };
+		6E6732E21BCA16B700D77942 /* SDS014.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = SDS014.mp3; sourceTree = "<group>"; };
+		6E6732E31BCA16B700D77942 /* Secondhand Serenade - Fall For You.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Secondhand Serenade - Fall For You.mp3"; sourceTree = "<group>"; };
+		6E6732E41BCA16B700D77942 /* shockingfit-com-advanced-strength-hypetrophy-12-weeks-workout-routine.xlsx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "shockingfit-com-advanced-strength-hypetrophy-12-weeks-workout-routine.xlsx"; sourceTree = "<group>"; };
+		6E6732E51BCA16B700D77942 /* signin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = signin.png; sourceTree = "<group>"; };
+		6E6732E61BCA16B700D77942 /* Skee-Lo - I Wish (Official Video).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Skee-Lo - I Wish (Official Video).mp3"; sourceTree = "<group>"; };
+		6E6732E71BCA16B700D77942 /* Slightly Stoopid - Wiseman lyrics.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Slightly Stoopid - Wiseman lyrics.mp3"; sourceTree = "<group>"; };
+		6E6732E81BCA16B700D77942 /* The Offspring - Half-Truism (Lyrics).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "The Offspring - Half-Truism (Lyrics).mp3"; sourceTree = "<group>"; };
+		6E6732E91BCA16B700D77942 /* The Offspring - You're Gonna Go Far, Kid.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "The Offspring - You're Gonna Go Far, Kid.mp3"; sourceTree = "<group>"; };
+		6E6732EA1BCA16B700D77942 /* twenty one pilots- Fairly Local [OFFICIAL VIDEO].mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "twenty one pilots- Fairly Local [OFFICIAL VIDEO].mp3"; sourceTree = "<group>"; };
+		6E6732EB1BCA16B700D77942 /* twenty one pilots- Stressed Out [OFFICIAL VIDEO].mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "twenty one pilots- Stressed Out [OFFICIAL VIDEO].mp3"; sourceTree = "<group>"; };
+		6E6732EC1BCA16B700D77942 /* UGRD - Lib Studies_Diversity Petition - 5089314 Taylor Walker 3_12_2015.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = "UGRD - Lib Studies_Diversity Petition - 5089314 Taylor Walker 3_12_2015.html"; sourceTree = "<group>"; };
+		6E6732ED1BCA16B700D77942 /* World-of-Warcraft-Setup-enUS.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "World-of-Warcraft-Setup-enUS.zip"; sourceTree = "<group>"; };
+		6E6732EE1BCA16B700D77942 /* xampp-osx-5.6.12-0-installer (1).dmg */ = {isa = PBXFileReference; lastKnownFileType = file; path = "xampp-osx-5.6.12-0-installer (1).dmg"; sourceTree = "<group>"; };
+		6E6732EF1BCA16B700D77942 /* xampp-osx-5.6.12-0-installer.dmg */ = {isa = PBXFileReference; lastKnownFileType = file; path = "xampp-osx-5.6.12-0-installer.dmg"; sourceTree = "<group>"; };
+		6E6732F01BCA16B700D77942 /* ZHU - Faded (Odesza Remix) (1).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ZHU - Faded (Odesza Remix) (1).mp3"; sourceTree = "<group>"; };
+		6E6732F11BCA16B700D77942 /* ZHU - Faded (Odesza Remix).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ZHU - Faded (Odesza Remix).mp3"; sourceTree = "<group>"; };
+		6E6732F21BCA16B700D77942 /* Zion I- Coastin' (official music video).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Zion I- Coastin' (official music video).mp3"; sourceTree = "<group>"; };
 		6EA1D3CF1BC9B65B00F85CC5 /* AllBeats.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AllBeats.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6EA1D3D31BC9B65B00F85CC5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		6EA1D3D51BC9B65B00F85CC5 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -92,9 +458,345 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		6E6732291BCA16B600D77942 /* Downloads */ = {
+			isa = PBXGroup;
+			children = (
+				6E67322A1BCA16B600D77942 /* .localized */,
+				6E67322B1BCA16B600D77942 /* 01 Mod2_DealingWUnwantedStates.mp3 */,
+				6E67322C1BCA16B600D77942 /* 01 Mod4_GettingYourInnerTeamOnboard.mp3 */,
+				6E67322D1BCA16B600D77942 /* 01 Mod4_Modeling.mp3 */,
+				6E67322E1BCA16B600D77942 /* 01 Mod5_BeingPresent.mp3 */,
+				6E67322F1BCA16B600D77942 /* 01 Mod6_MaintingMomentum.mp3 */,
+				6E6732301BCA16B600D77942 /* 01 Track 1 (1).mp3 */,
+				6E6732311BCA16B600D77942 /* 01 Track 1.mp3 */,
+				6E6732321BCA16B600D77942 /* 01 Track 1.wma */,
+				6E6732331BCA16B600D77942 /* 08-03_Grade_Calculator_Examples */,
+				6E6732351BCA16B600D77942 /* 136Syllabus.11G.docx */,
+				6E6732361BCA16B600D77942 /* 20150523_183420_resized.jpg */,
+				6E6732371BCA16B600D77942 /* 20150523_183740_resized.jpg */,
+				6E6732381BCA16B600D77942 /* 20150523_184101_resized.jpg */,
+				6E6732391BCA16B600D77942 /* 20150523_185037_resized.jpg */,
+				6E67323A1BCA16B600D77942 /* 20150523_190310_resized.jpg */,
+				6E67323B1BCA16B600D77942 /* 20150523_190722_resized_1.jpg */,
+				6E67323C1BCA16B600D77942 /* __pycache__ */,
+				6E67323E1BCA16B600D77942 /* Academic Plan (1).doc */,
+				6E67323F1BCA16B600D77942 /* Academic Plan.doc */,
+				6E6732401BCA16B600D77942 /* Aer - I Can't Help It (Official Music Video).mp3 */,
+				6E6732411BCA16B600D77942 /* Aer - Like the Way (Official Music Video).mp3 */,
+				6E6732421BCA16B600D77942 /* Alicia Keys - Killing Me Softly.mp3 */,
+				6E6732431BCA16B600D77942 /* Alina Baraz & Galimatias - Unfold.mp3 */,
+				6E6732441BCA16B600D77942 /* Alina Baraz - Art Of Persuasion(esta. remix).mp3 */,
+				6E6732451BCA16B600D77942 /* atom-mac.zip */,
+				6E6732461BCA16B600D77942 /* back.png */,
+				6E6732471BCA16B600D77942 /* BANKS - Change (Prod. Tim Anderson).mp3 */,
+				6E6732481BCA16B600D77942 /* Beck - Go it Alone.mp3 */,
+				6E6732491BCA16B600D77942 /* Blink 182 - Dumpweed (With Lyrics!).mp3 */,
+				6E67324A1BCA16B600D77942 /* ClassicFTP_i.dmg */,
+				6E67324B1BCA16B600D77942 /* classicmaci.zip */,
+				6E67324C1BCA16B600D77942 /* crushing_the_microstakes */,
+				6E6732501BCA16B600D77942 /* crushing_the_microstakes.rar */,
+				6E6732511BCA16B600D77942 /* CS112 2015 Spring course calendar.xls */,
+				6E6732521BCA16B600D77942 /* CS136 Syllabus Fall 2015(1).docx */,
+				6E6732531BCA16B600D77942 /* CS136 Syllabus Fall 2015(2).docx */,
+				6E6732541BCA16B600D77942 /* CS136LLab3Report.docx */,
+				6E6732551BCA16B600D77942 /* CustomCar.java */,
+				6E6732561BCA16B600D77942 /* CustomCarComponent.java */,
+				6E6732571BCA16B600D77942 /* Dean's List 1151.docx */,
+				6E6732581BCA16B600D77942 /* Degree Progression Plan (1).docx */,
+				6E6732591BCA16B600D77942 /* Degree Progression Plan.docx */,
+				6E67325A1BCA16B600D77942 /* discover.png */,
+				6E67325B1BCA16B600D77942 /* Donavon Frankenreiter - What'cha Know About (Full Version).mp3 */,
+				6E67325C1BCA16B600D77942 /* EE CS485 Individualized Study Contract.doc */,
+				6E67325D1BCA16B600D77942 /* EE222_comp_architecture_set2 (2).pptx */,
+				6E67325E1BCA16B600D77942 /* EE222_course_info_set1a(3).pptx */,
+				6E67325F1BCA16B600D77942 /* EE222_SyllabusF15 (1).docx */,
+				6E6732601BCA16B600D77942 /* EE222_SyllabusF15 (2).docx */,
+				6E6732611BCA16B600D77942 /* EE222_SyllabusF15 (3).docx */,
+				6E6732621BCA16B600D77942 /* EE222_SyllabusF15.docx */,
+				6E6732631BCA16B600D77942 /* EE222PPt7.pptx */,
+				6E6732641BCA16B600D77942 /* Ellie Goulding - Tessellate (Alt-J Cover).mp3 */,
+				6E6732651BCA16B600D77942 /* Eric Hutchinson- All Over Now.mp3 */,
+				6E6732661BCA16B600D77942 /* Ethnic Diversity definition.doc */,
+				6E6732671BCA16B600D77942 /* Ex_Files_Web_Design_Fund */,
+				6E67327E1BCA16B600D77942 /* Fetty Wap  - Trap Queen (Official Video).mp3 */,
+				6E67327F1BCA16B600D77942 /* Firefox 41.0.dmg */,
+				6E6732801BCA16B600D77942 /* Flux36-3.zip */,
+				6E6732811BCA16B600D77942 /* FrequentlyAskedQuestions.doc */,
+				6E6732821BCA16B600D77942 /* g. love & jack johnson - rainbow.mp3 */,
+				6E6732831BCA16B600D77942 /* GarciaJWalkerTLab2.java */,
+				6E6732841BCA16B600D77942 /* GarciaJWalkerTLab2Component.java */,
+				6E6732851BCA16B600D77942 /* GarciaJWalkerTLab2Report.docx */,
+				6E6732861BCA16B600D77942 /* guessing.docx */,
+				6E6732871BCA16B600D77942 /* Hoodie Allen - No Interruption (Official Video).mp3 */,
+				6E6732881BCA16B600D77942 /* IMG_20150711_101048738_HDR.jpg */,
+				6E6732891BCA16B600D77942 /* IMG_20150713_210954127.jpg */,
+				6E67328A1BCA16B600D77942 /* IMG_20150714_105705775_HDR.jpg */,
+				6E67328B1BCA16B600D77942 /* Iron and Wine - Boy With a Coin.mp3 */,
+				6E67328C1BCA16B600D77942 /* jdk-8u60-macosx-x64.dmg */,
+				6E67328D1BCA16B600D77942 /* John Butler Trio -  Johnny's Gone.mp3 */,
+				6E67328E1BCA16B600D77942 /* John Butler Trio - I'd Do Anything (Soldier's Lament).mp3 */,
+				6E67328F1BCA16B600D77942 /* John Butler Trio - Take Me.mp3 */,
+				6E6732901BCA16B600D77942 /* jre-8u60-macosx-x64.dmg */,
+				6E6732911BCA16B600D77942 /* Kidnap Kid - So Close.mp3 */,
+				6E6732921BCA16B600D77942 /* lab1.java */,
+				6E6732931BCA16B600D77942 /* Lab10.py */,
+				6E6732941BCA16B600D77942 /* lab12 Blackjack (1) (1).py */,
+				6E6732951BCA16B600D77942 /* Lab12_Blackjack.docx */,
+				6E6732961BCA16B600D77942 /* Lab1Report.docx */,
+				6E6732971BCA16B600D77942 /* Lab2Screenshot.PNG */,
+				6E6732981BCA16B600D77942 /* Lecture 1 – Introduction Version 2(1).pptx */,
+				6E6732991BCA16B700D77942 /* Lecture 3 – Java Syntax and Expressions(1).pptx */,
+				6E67329A1BCA16B700D77942 /* Lecture 4 – Using Objects(1).pptx */,
+				6E67329B1BCA16B700D77942 /* Marian Hill - Lovit.mp3 */,
+				6E67329C1BCA16B700D77942 /* Melanie Martinez - Carousel (Lyrics).mp3 */,
+				6E67329D1BCA16B700D77942 /* Microsoft_Office_2016_Installer.pkg */,
+				6E67329E1BCA16B700D77942 /* midterm 2.docx */,
+				6E67329F1BCA16B700D77942 /* Mod2_AnxietyDestroyer (1).mp3 */,
+				6E6732A01BCA16B700D77942 /* Mod2_AnxietyDestroyer.mp3 */,
+				6E6732A11BCA16B700D77942 /* New Microsoft Word Document.docx */,
+				6E6732A21BCA16B700D77942 /* ODESZA - Say My Name (feat. Zyra).mp3 */,
+				6E6732A31BCA16B700D77942 /* ODESZA - White Lies (feat. Jenni Potts).mp3 */,
+				6E6732A41BCA16B700D77942 /* older music */,
+				6E6732B21BCA16B700D77942 /* PaintBucket.java */,
+				6E6732B31BCA16B700D77942 /* Paramore- Ain't It Fun [OFFICIAL VIDEO].mp3 */,
+				6E6732B41BCA16B700D77942 /* Paramore- Misery Business [OFFICIAL VIDEO].mp3 */,
+				6E6732B51BCA16B700D77942 /* Paramore- Still Into You [OFFICIAL VIDEO].mp3 */,
+				6E6732B61BCA16B700D77942 /* Paramore- That's What You Get [OFFICIAL VIDEO].mp3 */,
+				6E6732B71BCA16B700D77942 /* Paramore- The Only Exception [OFFICIAL VIDEO].mp3 */,
+				6E6732B81BCA16B700D77942 /* PHP_example */,
+				6E6732BB1BCA16B700D77942 /* PHP_example (1).zip */,
+				6E6732BC1BCA16B700D77942 /* PHP_example 2 */,
+				6E6732BF1BCA16B700D77942 /* PHP_example.zip */,
+				6E6732C01BCA16B700D77942 /* Pity Party - Melanie Martinez (lyrics).mp3 */,
+				6E6732C11BCA16B700D77942 /* Planning Your Web Page.pdf */,
+				6E6732C21BCA16B700D77942 /* play.png */,
+				6E6732C31BCA16B700D77942 /* POD_3218393931.pdf */,
+				6E6732C41BCA16B700D77942 /* Project 1 (1).docx */,
+				6E6732C51BCA16B700D77942 /* Project 1 (2).docx */,
+				6E6732C61BCA16B700D77942 /* Project 1.docx */,
+				6E6732C71BCA16B700D77942 /* Project 2 (1).docx */,
+				6E6732C81BCA16B700D77942 /* Project 2.docx */,
+				6E6732C91BCA16B700D77942 /* Project 3 (1).docx */,
+				6E6732CA1BCA16B700D77942 /* Project 3.docx */,
+				6E6732CB1BCA16B700D77942 /* Project 4 (1).docx */,
+				6E6732CC1BCA16B700D77942 /* Project 4 (2).docx */,
+				6E6732CD1BCA16B700D77942 /* Project 4.docx */,
+				6E6732CE1BCA16B700D77942 /* Project 5 (1).docx */,
+				6E6732CF1BCA16B700D77942 /* Project 5.docx */,
+				6E6732D01BCA16B700D77942 /* python-3.4.2-macosx10.6.pkg */,
+				6E6732D11BCA16B700D77942 /* quiz 1 att 2.docx */,
+				6E6732D21BCA16B700D77942 /* quiz 1.docx */,
+				6E6732D31BCA16B700D77942 /* quiz 2 first.docx */,
+				6E6732D41BCA16B700D77942 /* quiz 3 att 1.docx */,
+				6E6732D51BCA16B700D77942 /* quiz 4.docx */,
+				6E6732D61BCA16B700D77942 /* Rappin 4 Tay - Players Club.mp3 */,
+				6E6732D71BCA16B700D77942 /* Relient K-Be My Escape w- lyrics.mp3 */,
+				6E6732D81BCA16B700D77942 /* Rise Against - Drones.mp3 */,
+				6E6732D91BCA16B700D77942 /* Rise Against - Savior.mp3 */,
+				6E6732DA1BCA16B700D77942 /* Rise Against - The Good Left Undone.mp3 */,
+				6E6732DB1BCA16B700D77942 /* SafeConnectMacInstaller 2.pkg */,
+				6E6732DC1BCA16B700D77942 /* SafeConnectMacInstaller.pkg */,
+				6E6732DD1BCA16B700D77942 /* SafeConnectMacInstaller.zip */,
+				6E6732DE1BCA16B700D77942 /* Screen Shot 2015-09-02 at 6.05.46 PM.png */,
+				6E6732DF1BCA16B700D77942 /* screens convert FINAL2.png */,
+				6E6732E01BCA16B700D77942 /* screens convert FINAL3.png */,
+				6E6732E11BCA16B700D77942 /* screens convert FINAL4.png */,
+				6E6732E21BCA16B700D77942 /* SDS014.mp3 */,
+				6E6732E31BCA16B700D77942 /* Secondhand Serenade - Fall For You.mp3 */,
+				6E6732E41BCA16B700D77942 /* shockingfit-com-advanced-strength-hypetrophy-12-weeks-workout-routine.xlsx */,
+				6E6732E51BCA16B700D77942 /* signin.png */,
+				6E6732E61BCA16B700D77942 /* Skee-Lo - I Wish (Official Video).mp3 */,
+				6E6732E71BCA16B700D77942 /* Slightly Stoopid - Wiseman lyrics.mp3 */,
+				6E6732E81BCA16B700D77942 /* The Offspring - Half-Truism (Lyrics).mp3 */,
+				6E6732E91BCA16B700D77942 /* The Offspring - You're Gonna Go Far, Kid.mp3 */,
+				6E6732EA1BCA16B700D77942 /* twenty one pilots- Fairly Local [OFFICIAL VIDEO].mp3 */,
+				6E6732EB1BCA16B700D77942 /* twenty one pilots- Stressed Out [OFFICIAL VIDEO].mp3 */,
+				6E6732EC1BCA16B700D77942 /* UGRD - Lib Studies_Diversity Petition - 5089314 Taylor Walker 3_12_2015.html */,
+				6E6732ED1BCA16B700D77942 /* World-of-Warcraft-Setup-enUS.zip */,
+				6E6732EE1BCA16B700D77942 /* xampp-osx-5.6.12-0-installer (1).dmg */,
+				6E6732EF1BCA16B700D77942 /* xampp-osx-5.6.12-0-installer.dmg */,
+				6E6732F01BCA16B700D77942 /* ZHU - Faded (Odesza Remix) (1).mp3 */,
+				6E6732F11BCA16B700D77942 /* ZHU - Faded (Odesza Remix).mp3 */,
+				6E6732F21BCA16B700D77942 /* Zion I- Coastin' (official music video).mp3 */,
+			);
+			name = Downloads;
+			path = ../../../../Downloads;
+			sourceTree = "<group>";
+		};
+		6E6732331BCA16B600D77942 /* 08-03_Grade_Calculator_Examples */ = {
+			isa = PBXGroup;
+			children = (
+				6E6732341BCA16B600D77942 /* grade_report.html */,
+			);
+			path = "08-03_Grade_Calculator_Examples";
+			sourceTree = "<group>";
+		};
+		6E67323C1BCA16B600D77942 /* __pycache__ */ = {
+			isa = PBXGroup;
+			children = (
+				6E67323D1BCA16B600D77942 /* Lab10.cpython-34.pyc */,
+			);
+			path = __pycache__;
+			sourceTree = "<group>";
+		};
+		6E67324C1BCA16B600D77942 /* crushing_the_microstakes */ = {
+			isa = PBXGroup;
+			children = (
+				6E67324D1BCA16B600D77942 /* Crushing The Microstakes.epub */,
+				6E67324E1BCA16B600D77942 /* Crushing The Microstakes.mobi */,
+				6E67324F1BCA16B600D77942 /* Crushing the Microstakes.pdf */,
+			);
+			path = crushing_the_microstakes;
+			sourceTree = "<group>";
+		};
+		6E6732671BCA16B600D77942 /* Ex_Files_Web_Design_Fund */ = {
+			isa = PBXGroup;
+			children = (
+				6E6732681BCA16B600D77942 /* Exercise Files */,
+			);
+			path = Ex_Files_Web_Design_Fund;
+			sourceTree = "<group>";
+		};
+		6E6732681BCA16B600D77942 /* Exercise Files */ = {
+			isa = PBXGroup;
+			children = (
+				6E6732691BCA16B600D77942 /* Chapter_01 */,
+				6E6732751BCA16B600D77942 /* Chapter_06 */,
+			);
+			path = "Exercise Files";
+			sourceTree = "<group>";
+		};
+		6E6732691BCA16B600D77942 /* Chapter_01 */ = {
+			isa = PBXGroup;
+			children = (
+				6E67326A1BCA16B600D77942 /* 01_01 */,
+				6E67326D1BCA16B600D77942 /* 01_02 */,
+				6E6732711BCA16B600D77942 /* 01_03 */,
+			);
+			path = Chapter_01;
+			sourceTree = "<group>";
+		};
+		6E67326A1BCA16B600D77942 /* 01_01 */ = {
+			isa = PBXGroup;
+			children = (
+				6E67326B1BCA16B600D77942 /* finished-files */,
+			);
+			path = 01_01;
+			sourceTree = "<group>";
+		};
+		6E67326B1BCA16B600D77942 /* finished-files */ = {
+			isa = PBXGroup;
+			children = (
+				6E67326C1BCA16B600D77942 /* hello.htm */,
+			);
+			path = "finished-files";
+			sourceTree = "<group>";
+		};
+		6E67326D1BCA16B600D77942 /* 01_02 */ = {
+			isa = PBXGroup;
+			children = (
+				6E67326E1BCA16B600D77942 /* finished-files */,
+				6E6732701BCA16B600D77942 /* hello.htm */,
+			);
+			path = 01_02;
+			sourceTree = "<group>";
+		};
+		6E67326E1BCA16B600D77942 /* finished-files */ = {
+			isa = PBXGroup;
+			children = (
+				6E67326F1BCA16B600D77942 /* hello.htm */,
+			);
+			path = "finished-files";
+			sourceTree = "<group>";
+		};
+		6E6732711BCA16B600D77942 /* 01_03 */ = {
+			isa = PBXGroup;
+			children = (
+				6E6732721BCA16B600D77942 /* finished_files */,
+				6E6732741BCA16B600D77942 /* hello.htm */,
+			);
+			path = 01_03;
+			sourceTree = "<group>";
+		};
+		6E6732721BCA16B600D77942 /* finished_files */ = {
+			isa = PBXGroup;
+			children = (
+				6E6732731BCA16B600D77942 /* hello.htm */,
+			);
+			path = finished_files;
+			sourceTree = "<group>";
+		};
+		6E6732751BCA16B600D77942 /* Chapter_06 */ = {
+			isa = PBXGroup;
+			children = (
+				6E6732761BCA16B600D77942 /* 06_01 */,
+			);
+			path = Chapter_06;
+			sourceTree = "<group>";
+		};
+		6E6732761BCA16B600D77942 /* 06_01 */ = {
+			isa = PBXGroup;
+			children = (
+				6E6732771BCA16B600D77942 /* _css */,
+				6E6732791BCA16B600D77942 /* courses.htm */,
+				6E67327A1BCA16B600D77942 /* reading.htm */,
+				6E67327B1BCA16B600D77942 /* reference.htm */,
+				6E67327C1BCA16B600D77942 /* specs.htm */,
+				6E67327D1BCA16B600D77942 /* tools.htm */,
+			);
+			path = 06_01;
+			sourceTree = "<group>";
+		};
+		6E6732771BCA16B600D77942 /* _css */ = {
+			isa = PBXGroup;
+			children = (
+				6E6732781BCA16B600D77942 /* styles.css */,
+			);
+			path = _css;
+			sourceTree = "<group>";
+		};
+		6E6732A41BCA16B700D77942 /* older music */ = {
+			isa = PBXGroup;
+			children = (
+				6E6732A51BCA16B700D77942 /* Alina Baraz - Paradise (Prod. By ESTA.).mp3 */,
+				6E6732A61BCA16B700D77942 /* BROODS - Bridges.mp3 */,
+				6E6732A71BCA16B700D77942 /* Drake - Headlines (Explicit).mp3 */,
+				6E6732A81BCA16B700D77942 /* Drake - Started From The Bottom (Lyrics).mp3 */,
+				6E6732A91BCA16B700D77942 /* drop the world dirty version.mp3 */,
+				6E6732AA1BCA16B700D77942 /* Eminem - Rap God (Explicit).mp3 */,
+				6E6732AB1BCA16B700D77942 /* FTSE - Float.mp3 */,
+				6E6732AC1BCA16B700D77942 /* Jhené Aiko - 3-16am.mp3 */,
+				6E6732AD1BCA16B700D77942 /* Lil Wayne feat. Drake - Right Above It (Dirty).mp3 */,
+				6E6732AE1BCA16B700D77942 /* ODESZA - Sun Models (feat. Madelyn Grant).mp3 */,
+				6E6732AF1BCA16B700D77942 /* Pretty Lights - One Day They'll Know (ODESZA Remix) - A Color Map of the Sun Remixes.mp3 */,
+				6E6732B01BCA16B700D77942 /* Say My Name (feat. Zyra) (Jai Wolf Remix).mp3 */,
+				6E6732B11BCA16B700D77942 /* ZHU - Superfriends.mp3 */,
+			);
+			path = "older music";
+			sourceTree = "<group>";
+		};
+		6E6732B81BCA16B700D77942 /* PHP_example */ = {
+			isa = PBXGroup;
+			children = (
+				6E6732B91BCA16B700D77942 /* project5_sample_form.php */,
+				6E6732BA1BCA16B700D77942 /* project5_sample_validator.php */,
+			);
+			path = PHP_example;
+			sourceTree = "<group>";
+		};
+		6E6732BC1BCA16B700D77942 /* PHP_example 2 */ = {
+			isa = PBXGroup;
+			children = (
+				6E6732BD1BCA16B700D77942 /* project5_sample_form.php */,
+				6E6732BE1BCA16B700D77942 /* project5_sample_validator.php */,
+			);
+			path = "PHP_example 2";
+			sourceTree = "<group>";
+		};
 		6EA1D3C61BC9B65B00F85CC5 = {
 			isa = PBXGroup;
 			children = (
+				6E6732291BCA16B600D77942 /* Downloads */,
 				6EA1D3D11BC9B65B00F85CC5 /* AllBeats */,
 				6EA1D3EB1BC9B65B00F85CC5 /* AllBeatsTests */,
 				6EA1D3F61BC9B65B00F85CC5 /* AllBeatsUITests */,
@@ -264,16 +966,193 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6E67336D1BCA16B700D77942 /* Paramore- Misery Business [OFFICIAL VIDEO].mp3 in Resources */,
+				6E67332D1BCA16B700D77942 /* hello.htm in Resources */,
+				6E6733631BCA16B700D77942 /* Eminem - Rap God (Explicit).mp3 in Resources */,
+				6E67331E1BCA16B700D77942 /* Degree Progression Plan (1).docx in Resources */,
+				6E67338C1BCA16B700D77942 /* quiz 4.docx in Resources */,
+				6E6733411BCA16B700D77942 /* Hoodie Allen - No Interruption (Official Video).mp3 in Resources */,
+				6E6733A81BCA16B700D77942 /* ZHU - Faded (Odesza Remix).mp3 in Resources */,
+				6E6733571BCA16B700D77942 /* Microsoft_Office_2016_Installer.pkg in Resources */,
 				6EA1D3E21BC9B65B00F85CC5 /* LaunchScreen.storyboard in Resources */,
+				6E6733541BCA16B700D77942 /* Lecture 4 – Using Objects(1).pptx in Resources */,
+				6E6733791BCA16B700D77942 /* play.png in Resources */,
+				6E6733671BCA16B700D77942 /* ODESZA - Sun Models (feat. Madelyn Grant).mp3 in Resources */,
+				6E6733421BCA16B700D77942 /* IMG_20150711_101048738_HDR.jpg in Resources */,
+				6E6733151BCA16B700D77942 /* Crushing the Microstakes.pdf in Resources */,
+				6E6733A11BCA16B700D77942 /* twenty one pilots- Fairly Local [OFFICIAL VIDEO].mp3 in Resources */,
+				6E67335E1BCA16B700D77942 /* Alina Baraz - Paradise (Prod. By ESTA.).mp3 in Resources */,
+				6E6733531BCA16B700D77942 /* Lecture 3 – Java Syntax and Expressions(1).pptx in Resources */,
+				6E6732FA1BCA16B700D77942 /* 01 Track 1.mp3 in Resources */,
+				6E6733551BCA16B700D77942 /* Marian Hill - Lovit.mp3 in Resources */,
+				6E6733691BCA16B700D77942 /* Say My Name (feat. Zyra) (Jai Wolf Remix).mp3 in Resources */,
+				6E6733491BCA16B700D77942 /* John Butler Trio - Take Me.mp3 in Resources */,
+				6E67333A1BCA16B700D77942 /* Flux36-3.zip in Resources */,
 				6EA1D40E1BC9C94200F85CC5 /* screens convert FINAL4.png in Resources */,
+				6E67336C1BCA16B700D77942 /* Paramore- Ain't It Fun [OFFICIAL VIDEO].mp3 in Resources */,
+				6E6733361BCA16B700D77942 /* specs.htm in Resources */,
 				6EA1D4151BC9D83D00F85CC5 /* play.png in Resources */,
+				6E67332F1BCA16B700D77942 /* hello.htm in Resources */,
+				6E67338A1BCA16B700D77942 /* quiz 2 first.docx in Resources */,
+				6E6733371BCA16B700D77942 /* tools.htm in Resources */,
+				6E67334E1BCA16B700D77942 /* lab12 Blackjack (1) (1).py in Resources */,
+				6E67333F1BCA16B700D77942 /* GarciaJWalkerTLab2Report.docx in Resources */,
+				6E67335C1BCA16B700D77942 /* ODESZA - Say My Name (feat. Zyra).mp3 in Resources */,
+				6E6733581BCA16B700D77942 /* midterm 2.docx in Resources */,
+				6E6733831BCA16B700D77942 /* Project 4 (2).docx in Resources */,
+				6E6733861BCA16B700D77942 /* Project 5.docx in Resources */,
+				6E6733451BCA16B700D77942 /* Iron and Wine - Boy With a Coin.mp3 in Resources */,
+				6E6733811BCA16B700D77942 /* Project 3.docx in Resources */,
+				6E67334F1BCA16B700D77942 /* Lab12_Blackjack.docx in Resources */,
+				6E6733891BCA16B700D77942 /* quiz 1.docx in Resources */,
 				6EA1D3DF1BC9B65B00F85CC5 /* Assets.xcassets in Resources */,
+				6E67330E1BCA16B700D77942 /* BANKS - Change (Prod. Tim Anderson).mp3 in Resources */,
+				6E67332B1BCA16B700D77942 /* Eric Hutchinson- All Over Now.mp3 in Resources */,
+				6E6733391BCA16B700D77942 /* Firefox 41.0.dmg in Resources */,
+				6E67331D1BCA16B700D77942 /* Dean's List 1151.docx in Resources */,
+				6E67339A1BCA16B700D77942 /* Secondhand Serenade - Fall For You.mp3 in Resources */,
+				6E6733A01BCA16B700D77942 /* The Offspring - You're Gonna Go Far, Kid.mp3 in Resources */,
+				6E67339C1BCA16B700D77942 /* signin.png in Resources */,
 				6EA1D40D1BC9C94200F85CC5 /* screens convert FINAL3.png in Resources */,
+				6E6733181BCA16B700D77942 /* CS136 Syllabus Fall 2015(1).docx in Resources */,
+				6E6732F31BCA16B700D77942 /* .localized in Resources */,
+				6E6733A31BCA16B700D77942 /* UGRD - Lib Studies_Diversity Petition - 5089314 Taylor Walker 3_12_2015.html in Resources */,
+				6E6733381BCA16B700D77942 /* Fetty Wap  - Trap Queen (Official Video).mp3 in Resources */,
+				6E6733941BCA16B700D77942 /* SafeConnectMacInstaller.zip in Resources */,
+				6E6733201BCA16B700D77942 /* discover.png in Resources */,
+				6E6733471BCA16B700D77942 /* John Butler Trio -  Johnny's Gone.mp3 in Resources */,
+				6E6733121BCA16B700D77942 /* classicmaci.zip in Resources */,
+				6E67333C1BCA16B700D77942 /* g. love & jack johnson - rainbow.mp3 in Resources */,
+				6E6733651BCA16B700D77942 /* Jhené Aiko - 3-16am.mp3 in Resources */,
+				6E67332E1BCA16B700D77942 /* hello.htm in Resources */,
+				6E6733901BCA16B700D77942 /* Rise Against - Savior.mp3 in Resources */,
+				6E6733001BCA16B700D77942 /* 20150523_184101_resized.jpg in Resources */,
+				6E67335D1BCA16B700D77942 /* ODESZA - White Lies (feat. Jenni Potts).mp3 in Resources */,
 				6EA1D4131BC9D83D00F85CC5 /* back.png in Resources */,
+				6E6733301BCA16B700D77942 /* hello.htm in Resources */,
+				6E67330D1BCA16B700D77942 /* back.png in Resources */,
+				6E6733241BCA16B700D77942 /* EE222_course_info_set1a(3).pptx in Resources */,
+				6E6732F91BCA16B700D77942 /* 01 Track 1 (1).mp3 in Resources */,
+				6E6733851BCA16B700D77942 /* Project 5 (1).docx in Resources */,
+				6E6733351BCA16B700D77942 /* reference.htm in Resources */,
+				6E6733701BCA16B700D77942 /* Paramore- The Only Exception [OFFICIAL VIDEO].mp3 in Resources */,
+				6E6733921BCA16B700D77942 /* SafeConnectMacInstaller 2.pkg in Resources */,
+				6E6733A51BCA16B700D77942 /* xampp-osx-5.6.12-0-installer (1).dmg in Resources */,
+				6E6733871BCA16B700D77942 /* python-3.4.2-macosx10.6.pkg in Resources */,
+				6E6733031BCA16B700D77942 /* 20150523_190722_resized_1.jpg in Resources */,
 				6EA1D40A1BC9C4E800F85CC5 /* screens convert FINAL2.png in Resources */,
+				6E6733111BCA16B700D77942 /* ClassicFTP_i.dmg in Resources */,
+				6E6733621BCA16B700D77942 /* drop the world dirty version.mp3 in Resources */,
+				6E67330C1BCA16B700D77942 /* atom-mac.zip in Resources */,
+				6E67336E1BCA16B700D77942 /* Paramore- Still Into You [OFFICIAL VIDEO].mp3 in Resources */,
+				6E6733341BCA16B700D77942 /* reading.htm in Resources */,
+				6E6733261BCA16B700D77942 /* EE222_SyllabusF15 (2).docx in Resources */,
+				6E67339E1BCA16B700D77942 /* Slightly Stoopid - Wiseman lyrics.mp3 in Resources */,
+				6E6733481BCA16B700D77942 /* John Butler Trio - I'd Do Anything (Soldier's Lament).mp3 in Resources */,
+				6E6733071BCA16B700D77942 /* Aer - I Can't Help It (Official Music Video).mp3 in Resources */,
+				6E6733A41BCA16B700D77942 /* World-of-Warcraft-Setup-enUS.zip in Resources */,
+				6E6733931BCA16B700D77942 /* SafeConnectMacInstaller.pkg in Resources */,
+				6E6733841BCA16B700D77942 /* Project 4.docx in Resources */,
+				6E6733081BCA16B700D77942 /* Aer - Like the Way (Official Music Video).mp3 in Resources */,
+				6E67339D1BCA16B700D77942 /* Skee-Lo - I Wish (Official Video).mp3 in Resources */,
+				6E67338D1BCA16B700D77942 /* Rappin 4 Tay - Players Club.mp3 in Resources */,
+				6E67332A1BCA16B700D77942 /* Ellie Goulding - Tessellate (Alt-J Cover).mp3 in Resources */,
 				6EA1D4141BC9D83D00F85CC5 /* discover.png in Resources */,
+				6E67338B1BCA16B700D77942 /* quiz 3 att 1.docx in Resources */,
+				6E6733021BCA16B700D77942 /* 20150523_190310_resized.jpg in Resources */,
+				6E6733161BCA16B700D77942 /* crushing_the_microstakes.rar in Resources */,
+				6E6732F81BCA16B700D77942 /* 01 Mod6_MaintingMomentum.mp3 in Resources */,
+				6E6733311BCA16B700D77942 /* hello.htm in Resources */,
+				6E67332C1BCA16B700D77942 /* Ethnic Diversity definition.doc in Resources */,
+				6E6733601BCA16B700D77942 /* Drake - Headlines (Explicit).mp3 in Resources */,
+				6E67337D1BCA16B700D77942 /* Project 1.docx in Resources */,
+				6E67330A1BCA16B700D77942 /* Alina Baraz & Galimatias - Unfold.mp3 in Resources */,
+				6E6733661BCA16B700D77942 /* Lil Wayne feat. Drake - Right Above It (Dirty).mp3 in Resources */,
+				6E6733761BCA16B700D77942 /* PHP_example.zip in Resources */,
+				6E6733511BCA16B700D77942 /* Lab2Screenshot.PNG in Resources */,
+				6E6733781BCA16B700D77942 /* Planning Your Web Page.pdf in Resources */,
+				6E6732FD1BCA16B700D77942 /* 136Syllabus.11G.docx in Resources */,
+				6E6733681BCA16B700D77942 /* Pretty Lights - One Day They'll Know (ODESZA Remix) - A Color Map of the Sun Remixes.mp3 in Resources */,
+				6E6733951BCA16B700D77942 /* Screen Shot 2015-09-02 at 6.05.46 PM.png in Resources */,
+				6E6732F71BCA16B700D77942 /* 01 Mod5_BeingPresent.mp3 in Resources */,
+				6E6733A61BCA16B700D77942 /* xampp-osx-5.6.12-0-installer.dmg in Resources */,
+				6E6733131BCA16B700D77942 /* Crushing The Microstakes.epub in Resources */,
+				6E6733041BCA16B700D77942 /* Lab10.cpython-34.pyc in Resources */,
+				6E67336A1BCA16B700D77942 /* ZHU - Superfriends.mp3 in Resources */,
+				6E67339F1BCA16B700D77942 /* The Offspring - Half-Truism (Lyrics).mp3 in Resources */,
+				6E67336F1BCA16B700D77942 /* Paramore- That's What You Get [OFFICIAL VIDEO].mp3 in Resources */,
+				6E6733A91BCA16B700D77942 /* Zion I- Coastin' (official music video).mp3 in Resources */,
+				6E6732FB1BCA16B700D77942 /* 01 Track 1.wma in Resources */,
+				6E6732FC1BCA16B700D77942 /* grade_report.html in Resources */,
+				6E67337E1BCA16B700D77942 /* Project 2 (1).docx in Resources */,
+				6E6733291BCA16B700D77942 /* EE222PPt7.pptx in Resources */,
+				6E67335F1BCA16B700D77942 /* BROODS - Bridges.mp3 in Resources */,
+				6E6732FE1BCA16B700D77942 /* 20150523_183420_resized.jpg in Resources */,
+				6E6733091BCA16B700D77942 /* Alicia Keys - Killing Me Softly.mp3 in Resources */,
+				6E6733061BCA16B700D77942 /* Academic Plan.doc in Resources */,
+				6E6733401BCA16B700D77942 /* guessing.docx in Resources */,
+				6E67337A1BCA16B700D77942 /* POD_3218393931.pdf in Resources */,
+				6E67333B1BCA16B700D77942 /* FrequentlyAskedQuestions.doc in Resources */,
+				6E6733231BCA16B700D77942 /* EE222_comp_architecture_set2 (2).pptx in Resources */,
+				6E67334A1BCA16B700D77942 /* jre-8u60-macosx-x64.dmg in Resources */,
+				6E67335B1BCA16B700D77942 /* New Microsoft Word Document.docx in Resources */,
+				6E6733981BCA16B700D77942 /* screens convert FINAL4.png in Resources */,
+				6E6733611BCA16B700D77942 /* Drake - Started From The Bottom (Lyrics).mp3 in Resources */,
+				6E67337B1BCA16B700D77942 /* Project 1 (1).docx in Resources */,
 				6EA1D3DD1BC9B65B00F85CC5 /* Main.storyboard in Resources */,
+				6E6733971BCA16B700D77942 /* screens convert FINAL3.png in Resources */,
+				6E6733171BCA16B700D77942 /* CS112 2015 Spring course calendar.xls in Resources */,
+				6E6733251BCA16B700D77942 /* EE222_SyllabusF15 (1).docx in Resources */,
+				6E67338E1BCA16B700D77942 /* Relient K-Be My Escape w- lyrics.mp3 in Resources */,
+				6E6733461BCA16B700D77942 /* jdk-8u60-macosx-x64.dmg in Resources */,
+				6E6733641BCA16B700D77942 /* FTSE - Float.mp3 in Resources */,
+				6E6733501BCA16B700D77942 /* Lab1Report.docx in Resources */,
+				6E67337C1BCA16B700D77942 /* Project 1 (2).docx in Resources */,
+				6E67339B1BCA16B700D77942 /* shockingfit-com-advanced-strength-hypetrophy-12-weeks-workout-routine.xlsx in Resources */,
+				6E6733751BCA16B700D77942 /* project5_sample_validator.php in Resources */,
+				6E6733A71BCA16B700D77942 /* ZHU - Faded (Odesza Remix) (1).mp3 in Resources */,
+				6E6733431BCA16B700D77942 /* IMG_20150713_210954127.jpg in Resources */,
+				6E6733731BCA16B700D77942 /* PHP_example (1).zip in Resources */,
+				6E6733331BCA16B700D77942 /* courses.htm in Resources */,
+				6E67331F1BCA16B700D77942 /* Degree Progression Plan.docx in Resources */,
+				6E6733561BCA16B700D77942 /* Melanie Martinez - Carousel (Lyrics).mp3 in Resources */,
+				6E67330B1BCA16B700D77942 /* Alina Baraz - Art Of Persuasion(esta. remix).mp3 in Resources */,
+				6E6733991BCA16B700D77942 /* SDS014.mp3 in Resources */,
+				6E6733911BCA16B700D77942 /* Rise Against - The Good Left Undone.mp3 in Resources */,
+				6E6733441BCA16B700D77942 /* IMG_20150714_105705775_HDR.jpg in Resources */,
+				6E6733881BCA16B700D77942 /* quiz 1 att 2.docx in Resources */,
 				6EA1D4161BC9D83D00F85CC5 /* signin.png in Resources */,
+				6E67335A1BCA16B700D77942 /* Mod2_AnxietyDestroyer.mp3 in Resources */,
+				6E6733141BCA16B700D77942 /* Crushing The Microstakes.mobi in Resources */,
+				6E6733771BCA16B700D77942 /* Pity Party - Melanie Martinez (lyrics).mp3 in Resources */,
+				6E6733961BCA16B700D77942 /* screens convert FINAL2.png in Resources */,
+				6E6733711BCA16B700D77942 /* project5_sample_form.php in Resources */,
+				6E67334D1BCA16B700D77942 /* Lab10.py in Resources */,
+				6E6733741BCA16B700D77942 /* project5_sample_form.php in Resources */,
+				6E6733011BCA16B700D77942 /* 20150523_185037_resized.jpg in Resources */,
+				6E6733191BCA16B700D77942 /* CS136 Syllabus Fall 2015(2).docx in Resources */,
+				6E67337F1BCA16B700D77942 /* Project 2.docx in Resources */,
+				6E6732F51BCA16B700D77942 /* 01 Mod4_GettingYourInnerTeamOnboard.mp3 in Resources */,
+				6E67338F1BCA16B700D77942 /* Rise Against - Drones.mp3 in Resources */,
+				6E6732F41BCA16B700D77942 /* 01 Mod2_DealingWUnwantedStates.mp3 in Resources */,
+				6E6733821BCA16B700D77942 /* Project 4 (1).docx in Resources */,
+				6E6733721BCA16B700D77942 /* project5_sample_validator.php in Resources */,
+				6E6733521BCA16B700D77942 /* Lecture 1 – Introduction Version 2(1).pptx in Resources */,
+				6E6733271BCA16B700D77942 /* EE222_SyllabusF15 (3).docx in Resources */,
+				6E6733211BCA16B700D77942 /* Donavon Frankenreiter - What'cha Know About (Full Version).mp3 in Resources */,
+				6E6732F61BCA16B700D77942 /* 01 Mod4_Modeling.mp3 in Resources */,
+				6E67331A1BCA16B700D77942 /* CS136LLab3Report.docx in Resources */,
+				6E6733281BCA16B700D77942 /* EE222_SyllabusF15.docx in Resources */,
+				6E67334B1BCA16B700D77942 /* Kidnap Kid - So Close.mp3 in Resources */,
+				6E6733221BCA16B700D77942 /* EE CS485 Individualized Study Contract.doc in Resources */,
+				6E6733101BCA16B700D77942 /* Blink 182 - Dumpweed (With Lyrics!).mp3 in Resources */,
+				6E6733801BCA16B700D77942 /* Project 3 (1).docx in Resources */,
+				6E6733051BCA16B700D77942 /* Academic Plan (1).doc in Resources */,
+				6E6733321BCA16B700D77942 /* styles.css in Resources */,
+				6E6733A21BCA16B700D77942 /* twenty one pilots- Stressed Out [OFFICIAL VIDEO].mp3 in Resources */,
+				6E6733591BCA16B700D77942 /* Mod2_AnxietyDestroyer (1).mp3 in Resources */,
+				6E6732FF1BCA16B700D77942 /* 20150523_183740_resized.jpg in Resources */,
+				6E67330F1BCA16B700D77942 /* Beck - Go it Alone.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -299,8 +1178,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				6EA1D3DA1BC9B65B00F85CC5 /* ViewController.m in Sources */,
+				6E67334C1BCA16B700D77942 /* lab1.java in Sources */,
 				6EA1D3D71BC9B65B00F85CC5 /* AppDelegate.m in Sources */,
+				6E67333E1BCA16B700D77942 /* GarciaJWalkerTLab2Component.java in Sources */,
+				6E67336B1BCA16B700D77942 /* PaintBucket.java in Sources */,
+				6E67331C1BCA16B700D77942 /* CustomCarComponent.java in Sources */,
+				6E67333D1BCA16B700D77942 /* GarciaJWalkerTLab2.java in Sources */,
 				6EA1D3D41BC9B65B00F85CC5 /* main.m in Sources */,
+				6E67331B1BCA16B700D77942 /* CustomCar.java in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
