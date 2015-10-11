@@ -24,4 +24,12 @@
     // Dispose of any resources that can be recreated.
 }
 
+-(IBAction)Play:(id)sender {
+    NSString *stream = @"http://www.stephaniequinn.com/Music/Allegro%20from%20Duet%20in%20C%20Major.mp3";
+    NSURL *url = [NSURL URLWithString:stream];
+    NSURLRequest *urlrequest = [NSURLRequest requestWithURL:url];
+    [Webview loadRequest:urlrequest];
+}
+
+
 @end
